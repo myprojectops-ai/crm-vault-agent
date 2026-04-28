@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "luisa-galvez",
+    "nombre": "Luisa Galvez",
+    "cash": null,
+    "fecha_llamada": "2026-04-14"
+  },
+  {
+    "slug": "oscar-fuentes",
+    "nombre": "OSCAR FUENTES",
+    "cash": null,
+    "fecha_llamada": "2026-04-14"
+  },
+  {
+    "slug": "luis-eduardo-alzate",
+    "nombre": "Luis Eduardo Alzate",
+    "cash": null,
+    "fecha_llamada": "2026-04-10"
+  },
+  {
+    "slug": "luis-miguel-gomez",
+    "nombre": "Luis Miguel Gomez",
+    "cash": null,
+    "fecha_llamada": "2026-04-09"
+  },
+  {
+    "slug": "alejandra-montoya",
+    "nombre": "Alejandra Montoya",
+    "cash": 2500000,
+    "fecha_llamada": "2026-04-08"
+  },
+  {
+    "slug": "juan-pablo-marquez",
+    "nombre": "Juan Pablo Marquez",
+    "cash": 5000000,
+    "fecha_llamada": "2026-04-08"
+  },
+  {
+    "slug": "diego-hernando-angulo",
+    "nombre": "Diego Hernando Angulo",
+    "cash": 1000000,
+    "fecha_llamada": "2026-04-07"
+  },
+  {
+    "slug": "andres-giraldo",
+    "nombre": "Andres Giraldo",
+    "cash": 1666667,
+    "fecha_llamada": "2026-04-06"
+  },
+  {
+    "slug": "camilo-andres-vivi-moreno",
+    "nombre": "Camilo Andres Vivi Moreno",
+    "cash": 25000,
+    "fecha_llamada": "2026-04-01"
+  },
+  {
+    "slug": "paola-alvarez",
+    "nombre": "Paola Alvarez",
+    "cash": 1000000,
+    "fecha_llamada": "2026-03-25"
+  }
+]

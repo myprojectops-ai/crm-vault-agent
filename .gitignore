@@ -1,0 +1,8 @@
+.env
+.claude/
+.venv/
+__pycache__/
+*.pyc
+raw/_latest_crm_query.json
+raw/_sync_state.json
+output/
