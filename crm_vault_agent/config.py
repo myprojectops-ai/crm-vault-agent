@@ -22,6 +22,7 @@ class Settings:
     vault_root: Path
     github_repo: str
     github_branch: str
+    github_token: str
     telegram_bot_token: str
     telegram_allowed_user_id: int | None
     openai_api_key: str
@@ -40,6 +41,7 @@ class Settings:
             vault_root=Path(os.getenv("VAULT_ROOT", ".")).resolve(),
             github_repo=os.getenv("GITHUB_REPO", "myprojectops-ai/crm-vault-agent"),
             github_branch=os.getenv("GITHUB_BRANCH", "main"),
+            github_token=os.getenv("GITHUB_TOKEN", ""),
             telegram_bot_token=os.getenv("TELEGRAM_BOT_TOKEN", ""),
             telegram_allowed_user_id=_optional_int(os.getenv("TELEGRAM_ALLOWED_USER_ID")),
             openai_api_key=os.getenv("OPENAI_API_KEY", ""),
@@ -62,6 +64,10 @@ class Settings:
     def require_telegram(self) -> None:
         if not self.telegram_bot_token:
             raise RuntimeError("Missing TELEGRAM_BOT_TOKEN")
+
+    def require_github(self) -> None:
+        if not self.github_token:
+            raise RuntimeError("Missing GITHUB_TOKEN")
 
 
 def _optional_int(value: str | None) -> int | None:

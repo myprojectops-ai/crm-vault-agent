@@ -11,6 +11,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 from crm_vault_agent.config import Settings
 from crm_vault_agent.dry_run import fetch_crm_records, write_dry_run_outputs
 from crm_vault_agent.editing import PendingEdit, apply_edit, prepare_edit
+from crm_vault_agent.git_publish import publish_to_github
 from crm_vault_agent.qa import answer_question
 from crm_vault_agent.vault_writer import write_vault
 
@@ -52,8 +53,10 @@ async def sync(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     records = fetch_crm_records(settings)
     write_dry_run_outputs(settings, records)
     summary = write_vault(settings, records)
+    publish_result = publish_to_github(settings)
     await update.message.reply_text(
-        f"Listo: {summary['prospect_notes']} notas, {summary['closed_clients']} clientes cerrados."
+        f"Listo: {summary['prospect_notes']} notas, {summary['closed_clients']} clientes cerrados.\n"
+        f"{publish_result}"
     )
 
 
@@ -94,6 +97,7 @@ async def scheduled_sync(context: ContextTypes.DEFAULT_TYPE) -> None:
     records = fetch_crm_records(settings)
     write_dry_run_outputs(settings, records)
     write_vault(settings, records)
+    publish_to_github(settings)
 
 
 def main() -> None:
