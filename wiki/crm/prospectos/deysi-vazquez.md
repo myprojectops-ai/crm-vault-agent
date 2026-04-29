@@ -1,6 +1,6 @@
 # Deysi Vazquez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Deysi-Vazquez-33ac40c66f098091aa3bc5b7d88c509d
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Deysi-Vazquez-33ac40c66f098091aa3bc5b7d88c509d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Deysi-Vazqu
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Deysi-Vazquez-33ac40c66f098091aa3bc5b7d88c509d
+- Pagina Notion: https://app.notion.com/p/Deysi-Vazquez-33ac40c66f098091aa3bc5b7d88c509d
 
 ## Llamadas registradas
 

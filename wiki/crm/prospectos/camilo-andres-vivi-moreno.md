@@ -1,6 +1,6 @@
 # Camilo Andres Vivi Moreno
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Camilo-Andres-Vivi-Moreno-32bc40c66f0980579d36c9855cbb375a
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Camilo-Andres-Vivi-Moreno-32bc40c66f0980579d36c9855cbb375a
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Camilo-Andr
 
 - Grabacion: https://fathom.video/share/Kdy6nSTE6Antgey1m3bSDkRcoWH7Zhhf
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Camilo-Andres-Vivi-Moreno-32bc40c66f0980579d36c9855cbb375a
+- Pagina Notion: https://app.notion.com/p/Camilo-Andres-Vivi-Moreno-32bc40c66f0980579d36c9855cbb375a
 
 ## Llamadas registradas
 

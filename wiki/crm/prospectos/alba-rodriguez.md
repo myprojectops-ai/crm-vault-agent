@@ -1,6 +1,6 @@
 # Alba Rodriguez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alba-Rodriguez-34fc40c66f0980638fc7ef4720e3c4cc
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alba-Rodriguez-34fc40c66f0980638fc7ef4720e3c4cc
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alba-Rodrig
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Alba-Rodriguez-34fc40c66f0980638fc7ef4720e3c4cc
+- Pagina Notion: https://app.notion.com/p/Alba-Rodriguez-34fc40c66f0980638fc7ef4720e3c4cc
 
 ## Llamadas registradas
 

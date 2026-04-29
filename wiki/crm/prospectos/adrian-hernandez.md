@@ -1,6 +1,6 @@
 # Adrian Hernandez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Adrian-Hernandez-34fc40c66f098064afccfc11b6118407
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Adrian-Hernandez-34fc40c66f098064afccfc11b6118407
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Adrian-Hern
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Adrian-Hernandez-34fc40c66f098064afccfc11b6118407
+- Pagina Notion: https://app.notion.com/p/Adrian-Hernandez-34fc40c66f098064afccfc11b6118407
 
 ## Llamadas registradas
 

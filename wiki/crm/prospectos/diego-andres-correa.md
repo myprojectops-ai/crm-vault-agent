@@ -1,6 +1,6 @@
 # Diego Andres Correa
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Andres-Correa-341c40c66f0980718f69e152dd2f2360
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Andres-Correa-341c40c66f0980718f69e152dd2f2360
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Andre
 
 - Grabacion: https://fathom.video/calls/636508791
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Diego-Andres-Correa-341c40c66f0980718f69e152dd2f2360
+- Pagina Notion: https://app.notion.com/p/Diego-Andres-Correa-341c40c66f0980718f69e152dd2f2360
 
 ## Llamadas registradas
 

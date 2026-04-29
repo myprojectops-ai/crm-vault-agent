@@ -1,6 +1,6 @@
 # Miguel Antonio Roa Bejarano
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Miguel-Antonio-Roa-Bejarano-345c40c66f09816894a6f7b97df1ec5d
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Miguel-Antonio-Roa-Bejarano-345c40c66f09816894a6f7b97df1ec5d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Miguel-Anto
 
 - Grabacion: https://fathom.video/calls/638034982
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Miguel-Antonio-Roa-Bejarano-345c40c66f09816894a6f7b97df1ec5d
+- Pagina Notion: https://app.notion.com/p/Miguel-Antonio-Roa-Bejarano-345c40c66f09816894a6f7b97df1ec5d
 
 ## Llamadas registradas
 

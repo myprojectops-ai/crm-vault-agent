@@ -1,6 +1,6 @@
 # Alejandra Montoya
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alejandra-Montoya-333c40c66f0980caaf97f5f898b4748d
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alejandra-Montoya-333c40c66f0980caaf97f5f898b4748d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alejandra-M
 
 - Grabacion: https://fathom.video/calls/640102949
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Alejandra-Montoya-333c40c66f0980caaf97f5f898b4748d
+- Pagina Notion: https://app.notion.com/p/Alejandra-Montoya-333c40c66f0980caaf97f5f898b4748d
 
 ## Llamadas registradas
 

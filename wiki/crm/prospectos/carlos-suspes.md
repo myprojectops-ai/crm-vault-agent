@@ -1,6 +1,6 @@
 # Carlos Suspes
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Suspes-349c40c66f0980a7883be74b33e325f7
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-Suspes-349c40c66f0980a7883be74b33e325f7
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Susp
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Carlos-Suspes-349c40c66f0980a7883be74b33e325f7
+- Pagina Notion: https://app.notion.com/p/Carlos-Suspes-349c40c66f0980a7883be74b33e325f7
 
 ## Llamadas registradas
 

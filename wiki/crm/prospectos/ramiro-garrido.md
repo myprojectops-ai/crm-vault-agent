@@ -1,6 +1,6 @@
 # Ramiro Garrido
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ramiro-Garrido-336c40c66f0981a281bedeca5f559833
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ramiro-Garrido-336c40c66f0981a281bedeca5f559833
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ramiro-Garr
 
 - Grabacion: https://fathom.video/calls/589869074
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ramiro-Garrido-336c40c66f0981a281bedeca5f559833
+- Pagina Notion: https://app.notion.com/p/Ramiro-Garrido-336c40c66f0981a281bedeca5f559833
 
 ## Llamadas registradas
 

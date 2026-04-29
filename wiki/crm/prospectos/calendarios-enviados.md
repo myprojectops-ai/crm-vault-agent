@@ -1,6 +1,6 @@
 # CALENDARIOS ENVIADOS
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/CALENDARIOS-ENVIADOS-34fc40c66f0980a59431da519ad730b1
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/CALENDARIOS-ENVIADOS-34fc40c66f0980a59431da519ad730b1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/CALENDARIOS
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/CALENDARIOS-ENVIADOS-34fc40c66f0980a59431da519ad730b1
+- Pagina Notion: https://app.notion.com/p/CALENDARIOS-ENVIADOS-34fc40c66f0980a59431da519ad730b1
 
 ## Llamadas registradas
 

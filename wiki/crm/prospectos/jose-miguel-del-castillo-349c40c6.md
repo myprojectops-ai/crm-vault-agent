@@ -1,6 +1,6 @@
 # Jose Miguel del Castillo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jose-Miguel-del-Castillo-349c40c66f0980c39e81edc605c8b5be
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jose-Miguel-del-Castillo-349c40c66f0980c39e81edc605c8b5be
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jose-Miguel
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jose-Miguel-del-Castillo-349c40c66f0980c39e81edc605c8b5be
+- Pagina Notion: https://app.notion.com/p/Jose-Miguel-del-Castillo-349c40c66f0980c39e81edc605c8b5be
 
 ## Llamadas registradas
 

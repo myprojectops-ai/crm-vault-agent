@@ -1,6 +1,6 @@
 # Luisa Pardo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luisa-Pardo-2b6671a5384c448890430440e61181d1
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luisa-Pardo-2b6671a5384c448890430440e61181d1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luisa-Pardo
 
 - Grabacion: https://fathom.video/calls/598035787
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Luisa-Pardo-2b6671a5384c448890430440e61181d1
+- Pagina Notion: https://app.notion.com/p/Luisa-Pardo-2b6671a5384c448890430440e61181d1
 
 ## Llamadas registradas
 

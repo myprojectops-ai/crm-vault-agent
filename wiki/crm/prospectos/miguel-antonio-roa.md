@@ -1,6 +1,6 @@
 # Miguel Antonio Roa
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Miguel-Antonio-Roa-341c40c66f0980c2a59fd1405a238889
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Miguel-Antonio-Roa-341c40c66f0980c2a59fd1405a238889
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Miguel-Anto
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Miguel-Antonio-Roa-341c40c66f0980c2a59fd1405a238889
+- Pagina Notion: https://app.notion.com/p/Miguel-Antonio-Roa-341c40c66f0980c2a59fd1405a238889
 
 ## Llamadas registradas
 

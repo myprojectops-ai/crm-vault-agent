@@ -1,6 +1,6 @@
 # Esnidier Ruiz
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Esnidier-Ruiz-336c40c66f09813897b1c0c862bc1091
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Esnidier-Ruiz-336c40c66f09813897b1c0c862bc1091
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Esnidier-Ru
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Esnidier-Ruiz-336c40c66f09813897b1c0c862bc1091
+- Pagina Notion: https://app.notion.com/p/Esnidier-Ruiz-336c40c66f09813897b1c0c862bc1091
 
 ## Llamadas registradas
 

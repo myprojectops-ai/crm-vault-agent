@@ -1,6 +1,6 @@
 # Luigi Camilo Guevara
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luigi-Camilo-Guevara-341c40c66f09802382dce09ce14ed8a3
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luigi-Camilo-Guevara-341c40c66f09802382dce09ce14ed8a3
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luigi-Camil
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Luigi-Camilo-Guevara-341c40c66f09802382dce09ce14ed8a3
+- Pagina Notion: https://app.notion.com/p/Luigi-Camilo-Guevara-341c40c66f09802382dce09ce14ed8a3
 
 ## Llamadas registradas
 

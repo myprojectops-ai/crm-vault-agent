@@ -1,6 +1,6 @@
 # Angela Maria Gil
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Angela-Maria-Gil-335c40c66f0980cda3f0fdbd2aa89cfd
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Angela-Maria-Gil-335c40c66f0980cda3f0fdbd2aa89cfd
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Angela-Mari
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Angela-Maria-Gil-335c40c66f0980cda3f0fdbd2aa89cfd
+- Pagina Notion: https://app.notion.com/p/Angela-Maria-Gil-335c40c66f0980cda3f0fdbd2aa89cfd
 
 ## Llamadas registradas
 

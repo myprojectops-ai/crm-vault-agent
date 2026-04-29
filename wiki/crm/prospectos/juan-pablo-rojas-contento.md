@@ -1,6 +1,6 @@
 # Juan Pablo Rojas Contento
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Pablo-Rojas-Contento-33fc40c66f09817b94edd4e09aff7b27
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Pablo-Rojas-Contento-33fc40c66f09817b94edd4e09aff7b27
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Pablo-
 
 - Grabacion: https://fathom.video/calls/633779254
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Pablo-Rojas-Contento-33fc40c66f09817b94edd4e09aff7b27
+- Pagina Notion: https://app.notion.com/p/Juan-Pablo-Rojas-Contento-33fc40c66f09817b94edd4e09aff7b27
 
 ## Llamadas registradas
 

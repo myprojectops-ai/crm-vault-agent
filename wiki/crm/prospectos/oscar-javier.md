@@ -1,6 +1,6 @@
 # Oscar Javier
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Oscar-Javier-32fc40c66f0980abb30ff84f4c2ba2eb
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Oscar-Javier-32fc40c66f0980abb30ff84f4c2ba2eb
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Oscar-Javie
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Oscar-Javier-32fc40c66f0980abb30ff84f4c2ba2eb
+- Pagina Notion: https://app.notion.com/p/Oscar-Javier-32fc40c66f0980abb30ff84f4c2ba2eb
 
 ## Llamadas registradas
 

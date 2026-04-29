@@ -1,6 +1,6 @@
 # Jimena Velásquez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jimena-Vel-squez-341c40c66f09807f9b4af049efd6830b
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jimena-Vel-squez-341c40c66f09807f9b4af049efd6830b
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jimena-Vel-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jimena-Vel-squez-341c40c66f09807f9b4af049efd6830b
+- Pagina Notion: https://app.notion.com/p/Jimena-Vel-squez-341c40c66f09807f9b4af049efd6830b
 
 ## Llamadas registradas
 

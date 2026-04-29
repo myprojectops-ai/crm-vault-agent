@@ -1,6 +1,6 @@
 # Ivan Echeverri
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivan-Echeverri-33ac40c66f098046bec0dcee794603ad
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ivan-Echeverri-33ac40c66f098046bec0dcee794603ad
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivan-Echeve
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ivan-Echeverri-33ac40c66f098046bec0dcee794603ad
+- Pagina Notion: https://app.notion.com/p/Ivan-Echeverri-33ac40c66f098046bec0dcee794603ad
 
 ## Llamadas registradas
 

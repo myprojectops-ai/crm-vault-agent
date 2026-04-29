@@ -1,6 +1,6 @@
 # Luisa Galvez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luisa-Galvez-337c40c66f0980579680ebf5363b939b
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luisa-Galvez-337c40c66f0980579680ebf5363b939b
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luisa-Galve
 
 - Grabacion: https://fathom.video/calls/643802761
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Luisa-Galvez-337c40c66f0980579680ebf5363b939b
+- Pagina Notion: https://app.notion.com/p/Luisa-Galvez-337c40c66f0980579680ebf5363b939b
 
 ## Llamadas registradas
 

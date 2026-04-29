@@ -1,6 +1,6 @@
 # Catalina Ceballos
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Catalina-Ceballos-337c40c66f0980e49714f7f316ae8907
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Catalina-Ceballos-337c40c66f0980e49714f7f316ae8907
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Catalina-Ce
 
 - Grabacion: https://fathom.video/calls/631717870
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Catalina-Ceballos-337c40c66f0980e49714f7f316ae8907
+- Pagina Notion: https://app.notion.com/p/Catalina-Ceballos-337c40c66f0980e49714f7f316ae8907
 
 ## Llamadas registradas
 

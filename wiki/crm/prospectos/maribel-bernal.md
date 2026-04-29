@@ -1,6 +1,6 @@
 # Maribel Bernal
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Maribel-Bernal-344c40c66f0980d6914ed43f40357626
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maribel-Bernal-344c40c66f0980d6914ed43f40357626
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Maribel-Ber
 
 - Grabacion: https://fathom.video/calls/645097380
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Maribel-Bernal-344c40c66f0980d6914ed43f40357626
+- Pagina Notion: https://app.notion.com/p/Maribel-Bernal-344c40c66f0980d6914ed43f40357626
 
 ## Llamadas registradas
 

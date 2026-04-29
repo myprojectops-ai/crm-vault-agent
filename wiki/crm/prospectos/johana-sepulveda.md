@@ -1,6 +1,6 @@
 # Johana Sepulveda
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Johana-Sepulveda-32fc40c66f0980b2888dd51e097ec985
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Johana-Sepulveda-32fc40c66f0980b2888dd51e097ec985
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Johana-Sepu
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Johana-Sepulveda-32fc40c66f0980b2888dd51e097ec985
+- Pagina Notion: https://app.notion.com/p/Johana-Sepulveda-32fc40c66f0980b2888dd51e097ec985
 
 ## Llamadas registradas
 

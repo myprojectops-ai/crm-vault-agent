@@ -1,6 +1,6 @@
 # Christian Garcia Lopez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Christian-Garcia-Lopez-33cc40c66f09811e95e0ec24804af3b9
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Christian-Garcia-Lopez-33cc40c66f09811e95e0ec24804af3b9
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Christian-G
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Christian-Garcia-Lopez-33cc40c66f09811e95e0ec24804af3b9
+- Pagina Notion: https://app.notion.com/p/Christian-Garcia-Lopez-33cc40c66f09811e95e0ec24804af3b9
 
 ## Llamadas registradas
 

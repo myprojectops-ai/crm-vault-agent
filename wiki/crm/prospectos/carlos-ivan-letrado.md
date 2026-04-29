@@ -1,6 +1,6 @@
 # Carlos Ivan Letrado
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Ivan-Letrado-f1f15f3eed79430a8973fac290aa9a5c
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-Ivan-Letrado-f1f15f3eed79430a8973fac290aa9a5c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Ivan
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Carlos-Ivan-Letrado-f1f15f3eed79430a8973fac290aa9a5c
+- Pagina Notion: https://app.notion.com/p/Carlos-Ivan-Letrado-f1f15f3eed79430a8973fac290aa9a5c
 
 ## Llamadas registradas
 

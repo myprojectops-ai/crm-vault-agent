@@ -1,6 +1,6 @@
 # Nicolas Felipe Hernandez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Nicolas-Felipe-Hernandez-344c40c66f09802b90fbe2369e56ae0d
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Nicolas-Felipe-Hernandez-344c40c66f09802b90fbe2369e56ae0d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Nicolas-Fel
 
 - Grabacion: https://fathom.video/calls/641386044
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Nicolas-Felipe-Hernandez-344c40c66f09802b90fbe2369e56ae0d
+- Pagina Notion: https://app.notion.com/p/Nicolas-Felipe-Hernandez-344c40c66f09802b90fbe2369e56ae0d
 
 ## Llamadas registradas
 

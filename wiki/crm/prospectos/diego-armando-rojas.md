@@ -1,6 +1,6 @@
 # Diego Armando Rojas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Armando-Rojas-333c40c66f098052aeeac41bc0c78632
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Armando-Rojas-333c40c66f098052aeeac41bc0c78632
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Arman
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Diego-Armando-Rojas-333c40c66f098052aeeac41bc0c78632
+- Pagina Notion: https://app.notion.com/p/Diego-Armando-Rojas-333c40c66f098052aeeac41bc0c78632
 
 ## Llamadas registradas
 

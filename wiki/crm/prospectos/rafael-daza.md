@@ -1,6 +1,6 @@
 # Rafael Daza
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Rafael-Daza-34fc40c66f0980949473ffc78cd34fab
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Rafael-Daza-34fc40c66f0980949473ffc78cd34fab
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Rafael-Daza
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Rafael-Daza-34fc40c66f0980949473ffc78cd34fab
+- Pagina Notion: https://app.notion.com/p/Rafael-Daza-34fc40c66f0980949473ffc78cd34fab
 
 ## Llamadas registradas
 

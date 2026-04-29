@@ -1,6 +1,6 @@
 # Juan Carlos Gallego
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Carlos-Gallego-32bc40c66f098091b9a6f8eb198fc8cc
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Carlos-Gallego-32bc40c66f098091b9a6f8eb198fc8cc
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Carlos
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Carlos-Gallego-32bc40c66f098091b9a6f8eb198fc8cc
+- Pagina Notion: https://app.notion.com/p/Juan-Carlos-Gallego-32bc40c66f098091b9a6f8eb198fc8cc
 
 ## Llamadas registradas
 

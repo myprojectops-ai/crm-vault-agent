@@ -1,6 +1,6 @@
 # Giovanny León
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Giovanny-Le-n-34fc40c66f098090ae0eca66e5e141aa
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Giovanny-Le-n-34fc40c66f098090ae0eca66e5e141aa
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Giovanny-Le
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Giovanny-Le-n-34fc40c66f098090ae0eca66e5e141aa
+- Pagina Notion: https://app.notion.com/p/Giovanny-Le-n-34fc40c66f098090ae0eca66e5e141aa
 
 ## Llamadas registradas
 

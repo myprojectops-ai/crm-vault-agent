@@ -1,6 +1,6 @@
 # Jhonathan Prada
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jhonathan-Prada-a603ef08a5c0443f9098f573055d3227
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jhonathan-Prada-a603ef08a5c0443f9098f573055d3227
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jhonathan-P
 
 - Grabacion: https://fathom.video/share/SyXysX8uPD_dKqTZmJxk4xzE3xhdpxxM
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jhonathan-Prada-a603ef08a5c0443f9098f573055d3227
+- Pagina Notion: https://app.notion.com/p/Jhonathan-Prada-a603ef08a5c0443f9098f573055d3227
 
 ## Llamadas registradas
 

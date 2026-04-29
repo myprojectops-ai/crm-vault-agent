@@ -1,6 +1,6 @@
 # Santiago Maldonado
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Santiago-Maldonado-344c40c66f098050bd85cac558e6be99
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Santiago-Maldonado-344c40c66f098050bd85cac558e6be99
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Santiago-Ma
 
 - Grabacion: https://fathom.video/calls/643990896
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Santiago-Maldonado-344c40c66f098050bd85cac558e6be99
+- Pagina Notion: https://app.notion.com/p/Santiago-Maldonado-344c40c66f098050bd85cac558e6be99
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Edwin Salamanca
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Edwin-Salamanca-9882933dee9d45148738f48b3fbe6cba
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Edwin-Salamanca-9882933dee9d45148738f48b3fbe6cba
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Edwin-Salam
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Edwin-Salamanca-9882933dee9d45148738f48b3fbe6cba
+- Pagina Notion: https://app.notion.com/p/Edwin-Salamanca-9882933dee9d45148738f48b3fbe6cba
 
 ## Llamadas registradas
 

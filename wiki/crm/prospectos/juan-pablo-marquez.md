@@ -1,6 +1,6 @@
 # Juan Pablo Marquez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Pablo-Marquez-333c40c66f0980e8b90fdb8677af2205
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Pablo-Marquez-333c40c66f0980e8b90fdb8677af2205
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Pablo-
 
 - Grabacion: https://fathom.video/calls/640102941
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Pablo-Marquez-333c40c66f0980e8b90fdb8677af2205
+- Pagina Notion: https://app.notion.com/p/Juan-Pablo-Marquez-333c40c66f0980e8b90fdb8677af2205
 
 ## Llamadas registradas
 

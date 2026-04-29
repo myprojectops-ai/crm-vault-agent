@@ -1,6 +1,6 @@
 # Felipe Uribe
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Felipe-Uribe-33ac40c66f098012b2a6e9251b1cb549
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Felipe-Uribe-33ac40c66f098012b2a6e9251b1cb549
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Felipe-Urib
 
 - Grabacion: https://fathom.video/calls/636871779
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Felipe-Uribe-33ac40c66f098012b2a6e9251b1cb549
+- Pagina Notion: https://app.notion.com/p/Felipe-Uribe-33ac40c66f098012b2a6e9251b1cb549
 
 ## Llamadas registradas
 

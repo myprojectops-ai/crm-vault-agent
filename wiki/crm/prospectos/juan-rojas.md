@@ -1,6 +1,6 @@
 # Juan Rojas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Rojas-334c40c66f09802898b9ce2db891846e
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Rojas-334c40c66f09802898b9ce2db891846e
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Rojas-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Rojas-334c40c66f09802898b9ce2db891846e
+- Pagina Notion: https://app.notion.com/p/Juan-Rojas-334c40c66f09802898b9ce2db891846e
 
 ## Llamadas registradas
 

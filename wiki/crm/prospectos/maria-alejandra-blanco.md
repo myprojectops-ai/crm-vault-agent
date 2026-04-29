@@ -1,6 +1,6 @@
 # Maria Alejandra Blanco
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Maria-Alejandra-Blanco-2aba11fd962447d4be0457a28ea1faa5
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maria-Alejandra-Blanco-2aba11fd962447d4be0457a28ea1faa5
 
 ## Key Takeaways
 
@@ -62,7 +62,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Maria-Aleja
 
 - Grabacion: https://fathom.video/share/2AK-dHe_u_hz1msWFszUdv3yx7Nq9kGc
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Maria-Alejandra-Blanco-2aba11fd962447d4be0457a28ea1faa5
+- Pagina Notion: https://app.notion.com/p/Maria-Alejandra-Blanco-2aba11fd962447d4be0457a28ea1faa5
 
 ## Llamadas registradas
 

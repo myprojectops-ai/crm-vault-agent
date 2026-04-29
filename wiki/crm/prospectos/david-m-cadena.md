@@ -1,6 +1,6 @@
 # David M Cadena
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-M-Cadena-341c40c66f09801fb816f1b2d8908abd
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/David-M-Cadena-341c40c66f09801fb816f1b2d8908abd
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-M-Cad
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/David-M-Cadena-341c40c66f09801fb816f1b2d8908abd
+- Pagina Notion: https://app.notion.com/p/David-M-Cadena-341c40c66f09801fb816f1b2d8908abd
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Ana Catalina Mejia
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ana-Catalina-Mejia-327c40c66f09802c9b48c33aae1fda0f
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ana-Catalina-Mejia-327c40c66f09802c9b48c33aae1fda0f
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ana-Catalin
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ana-Catalina-Mejia-327c40c66f09802c9b48c33aae1fda0f
+- Pagina Notion: https://app.notion.com/p/Ana-Catalina-Mejia-327c40c66f09802c9b48c33aae1fda0f
 
 ## Llamadas registradas
 

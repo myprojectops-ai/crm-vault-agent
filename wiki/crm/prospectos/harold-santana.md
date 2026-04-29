@@ -1,6 +1,6 @@
 # Harold Santana
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Harold-Santana-333c40c66f0980aa850ce13328ad0c9b
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Harold-Santana-333c40c66f0980aa850ce13328ad0c9b
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Harold-Sant
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Harold-Santana-333c40c66f0980aa850ce13328ad0c9b
+- Pagina Notion: https://app.notion.com/p/Harold-Santana-333c40c66f0980aa850ce13328ad0c9b
 
 ## Llamadas registradas
 

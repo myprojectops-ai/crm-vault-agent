@@ -1,6 +1,6 @@
 # Juan Sebastian Bustos
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Sebastian-Bustos-333c40c66f0980a3af52e760c1c249c2
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Sebastian-Bustos-333c40c66f0980a3af52e760c1c249c2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Sebast
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Sebastian-Bustos-333c40c66f0980a3af52e760c1c249c2
+- Pagina Notion: https://app.notion.com/p/Juan-Sebastian-Bustos-333c40c66f0980a3af52e760c1c249c2
 
 ## Llamadas registradas
 

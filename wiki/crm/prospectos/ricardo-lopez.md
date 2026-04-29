@@ -1,6 +1,6 @@
 # Ricardo Lopez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ricardo-Lopez-33ac40c66f0980ce98c3cf758af1b9cd
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ricardo-Lopez-33ac40c66f0980ce98c3cf758af1b9cd
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ricardo-Lop
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ricardo-Lopez-33ac40c66f0980ce98c3cf758af1b9cd
+- Pagina Notion: https://app.notion.com/p/Ricardo-Lopez-33ac40c66f0980ce98c3cf758af1b9cd
 
 ## Llamadas registradas
 

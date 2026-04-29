@@ -1,6 +1,6 @@
 # Jeimmy Velasco
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jeimmy-Velasco-337c40c66f0980b69367e954cb0027d4
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jeimmy-Velasco-337c40c66f0980b69367e954cb0027d4
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jeimmy-Vela
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jeimmy-Velasco-337c40c66f0980b69367e954cb0027d4
+- Pagina Notion: https://app.notion.com/p/Jeimmy-Velasco-337c40c66f0980b69367e954cb0027d4
 
 ## Llamadas registradas
 

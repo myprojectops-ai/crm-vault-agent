@@ -1,6 +1,6 @@
 # Alex Alvares
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alex-Alvares-349c40c66f0980328c5ec164bfc69f34
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alex-Alvares-349c40c66f0980328c5ec164bfc69f34
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alex-Alvare
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Alex-Alvares-349c40c66f0980328c5ec164bfc69f34
+- Pagina Notion: https://app.notion.com/p/Alex-Alvares-349c40c66f0980328c5ec164bfc69f34
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Cristian Neira
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Cristian-Neira-335c40c66f0980998592c875f95b4dcc
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Cristian-Neira-335c40c66f0980998592c875f95b4dcc
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Cristian-Ne
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Cristian-Neira-335c40c66f0980998592c875f95b4dcc
+- Pagina Notion: https://app.notion.com/p/Cristian-Neira-335c40c66f0980998592c875f95b4dcc
 
 ## Llamadas registradas
 

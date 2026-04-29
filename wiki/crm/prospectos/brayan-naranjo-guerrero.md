@@ -1,6 +1,6 @@
 # Brayan Naranjo Guerrero
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Brayan-Naranjo-Guerrero-34bc40c66f0981d39de0c88dce69d4d0
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Brayan-Naranjo-Guerrero-34bc40c66f0981d39de0c88dce69d4d0
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Brayan-Nara
 
 - Grabacion: https://fathom.video/calls/645863626
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Brayan-Naranjo-Guerrero-34bc40c66f0981d39de0c88dce69d4d0
+- Pagina Notion: https://app.notion.com/p/Brayan-Naranjo-Guerrero-34bc40c66f0981d39de0c88dce69d4d0
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Ivonne Maritza
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivonne-Maritza-32fc40c66f0980fca8afd0820e5d3968
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ivonne-Maritza-32fc40c66f0980fca8afd0820e5d3968
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivonne-Mari
 
 - Grabacion: https://fathom.video/share/UgLTTHjqAPuYTmFrHJq_Rd5N6y36ADV8
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ivonne-Maritza-32fc40c66f0980fca8afd0820e5d3968
+- Pagina Notion: https://app.notion.com/p/Ivonne-Maritza-32fc40c66f0980fca8afd0820e5d3968
 
 ## Llamadas registradas
 

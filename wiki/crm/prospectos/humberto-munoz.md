@@ -1,6 +1,6 @@
 # HUMBERTO MUÑOZ
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/HUMBERTO-MU-OZ-343c40c66f0981c38ba2d7d834f57cfa
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/HUMBERTO-MU-OZ-343c40c66f0981c38ba2d7d834f57cfa
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/HUMBERTO-MU
 
 - Grabacion: https://fathom.video/calls/647490428
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/HUMBERTO-MU-OZ-343c40c66f0981c38ba2d7d834f57cfa
+- Pagina Notion: https://app.notion.com/p/HUMBERTO-MU-OZ-343c40c66f0981c38ba2d7d834f57cfa
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Fernan Hernandez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Fernan-Hernandez-344c40c66f0980869b05f8251c8a014d
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Fernan-Hernandez-344c40c66f0980869b05f8251c8a014d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Fernan-Hern
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Fernan-Hernandez-344c40c66f0980869b05f8251c8a014d
+- Pagina Notion: https://app.notion.com/p/Fernan-Hernandez-344c40c66f0980869b05f8251c8a014d
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Harrys Romero
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Harrys-Romero-349c40c66f0980f4930df5f0a7149b86
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Harrys-Romero-349c40c66f0980f4930df5f0a7149b86
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Harrys-Rome
 
 - Grabacion: https://fathom.video/calls/646163495
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Harrys-Romero-349c40c66f0980f4930df5f0a7149b86
+- Pagina Notion: https://app.notion.com/p/Harrys-Romero-349c40c66f0980f4930df5f0a7149b86
 
 ## Llamadas registradas
 

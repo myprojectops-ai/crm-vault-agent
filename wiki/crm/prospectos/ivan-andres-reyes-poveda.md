@@ -1,6 +1,6 @@
 # Ivan Andres Reyes Poveda
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivan-Andres-Reyes-Poveda-34dc40c66f098163bd5df7755c0492ac
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ivan-Andres-Reyes-Poveda-34dc40c66f098163bd5df7755c0492ac
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivan-Andres
 
 - Grabacion: https://fathom.video/calls/648113761
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ivan-Andres-Reyes-Poveda-34dc40c66f098163bd5df7755c0492ac
+- Pagina Notion: https://app.notion.com/p/Ivan-Andres-Reyes-Poveda-34dc40c66f098163bd5df7755c0492ac
 
 ## Llamadas registradas
 

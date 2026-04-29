@@ -1,6 +1,6 @@
 # Felipe De La Espriella
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Felipe-De-La-Espriella-737085e36d364f61803fb6acf9f9411f
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Felipe-De-La-Espriella-737085e36d364f61803fb6acf9f9411f
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Felipe-De-L
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Felipe-De-La-Espriella-737085e36d364f61803fb6acf9f9411f
+- Pagina Notion: https://app.notion.com/p/Felipe-De-La-Espriella-737085e36d364f61803fb6acf9f9411f
 
 ## Llamadas registradas
 

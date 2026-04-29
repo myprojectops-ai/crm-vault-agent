@@ -1,6 +1,6 @@
 # Juan Ronaldo Aranzazu
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Ronaldo-Aranzazu-333c40c66f0980f2b944ffdf68e0a5d4
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Ronaldo-Aranzazu-333c40c66f0980f2b944ffdf68e0a5d4
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Ronald
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Ronaldo-Aranzazu-333c40c66f0980f2b944ffdf68e0a5d4
+- Pagina Notion: https://app.notion.com/p/Juan-Ronaldo-Aranzazu-333c40c66f0980f2b944ffdf68e0a5d4
 
 ## Llamadas registradas
 

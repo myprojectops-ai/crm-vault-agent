@@ -1,6 +1,6 @@
 # Nicolas Moreno
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Nicolas-Moreno-cb951ab25ca94052bfc84a336181ca2c
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Nicolas-Moreno-cb951ab25ca94052bfc84a336181ca2c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Nicolas-Mor
 
 - Grabacion: https://fathom.video/share/TxkAUiVt1vYEUyFF2kjTWxdunoUnnEnP
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Nicolas-Moreno-cb951ab25ca94052bfc84a336181ca2c
+- Pagina Notion: https://app.notion.com/p/Nicolas-Moreno-cb951ab25ca94052bfc84a336181ca2c
 
 ## Llamadas registradas
 

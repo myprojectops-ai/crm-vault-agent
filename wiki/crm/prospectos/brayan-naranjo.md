@@ -1,6 +1,6 @@
 # Brayan Naranjo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Brayan-Naranjo-349c40c66f09806c9df9c06e7cbb90bc
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Brayan-Naranjo-349c40c66f09806c9df9c06e7cbb90bc
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Brayan-Nara
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Brayan-Naranjo-349c40c66f09806c9df9c06e7cbb90bc
+- Pagina Notion: https://app.notion.com/p/Brayan-Naranjo-349c40c66f09806c9df9c06e7cbb90bc
 
 ## Llamadas registradas
 

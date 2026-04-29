@@ -1,6 +1,6 @@
 # Juan Pablo Borrero Florez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Pablo-Borrero-Florez-343c40c66f0981b39693d3dce8c953ac
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Pablo-Borrero-Florez-343c40c66f0981b39693d3dce8c953ac
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Pablo-
 
 - Grabacion: https://fathom.video/calls/637714843
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Pablo-Borrero-Florez-343c40c66f0981b39693d3dce8c953ac
+- Pagina Notion: https://app.notion.com/p/Juan-Pablo-Borrero-Florez-343c40c66f0981b39693d3dce8c953ac
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Abel Loaiza
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Abel-Loaiza-330c40c66f0980cb9671ef4467413dbd
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Abel-Loaiza-330c40c66f0980cb9671ef4467413dbd
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Abel-Loaiza
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Abel-Loaiza-330c40c66f0980cb9671ef4467413dbd
+- Pagina Notion: https://app.notion.com/p/Abel-Loaiza-330c40c66f0980cb9671ef4467413dbd
 
 ## Llamadas registradas
 

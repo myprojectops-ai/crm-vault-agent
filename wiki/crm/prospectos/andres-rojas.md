@@ -1,6 +1,6 @@
 # Andres Rojas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Rojas-346c40c66f0981db8d6ed356a87abfce
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Rojas-346c40c66f0981db8d6ed356a87abfce
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Roja
 
 - Grabacion: https://fathom.video/calls/640167939
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Andres-Rojas-346c40c66f0981db8d6ed356a87abfce
+- Pagina Notion: https://app.notion.com/p/Andres-Rojas-346c40c66f0981db8d6ed356a87abfce
 
 ## Llamadas registradas
 

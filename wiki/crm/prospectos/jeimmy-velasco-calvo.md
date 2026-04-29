@@ -1,6 +1,6 @@
 # Jeimmy Velasco Calvo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jeimmy-Velasco-Calvo-342c40c66f0981eeb633e19f49732dfb
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jeimmy-Velasco-Calvo-342c40c66f0981eeb633e19f49732dfb
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jeimmy-Vela
 
 - Grabacion: https://fathom.video/calls/633368340
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jeimmy-Velasco-Calvo-342c40c66f0981eeb633e19f49732dfb
+- Pagina Notion: https://app.notion.com/p/Jeimmy-Velasco-Calvo-342c40c66f0981eeb633e19f49732dfb
 
 ## Llamadas registradas
 

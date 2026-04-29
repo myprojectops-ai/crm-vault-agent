@@ -1,6 +1,6 @@
 # Natalia Andrea Morales
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Natalia-Andrea-Morales-34fc40c66f09800e8bc9dcf682228661
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Natalia-Andrea-Morales-34fc40c66f09800e8bc9dcf682228661
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/DYARvSj_DhV-CP3UTCf3dT1Pcy35Pihx
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Natalia-Andrea-Morales-34fc40c66f09800e8bc9dcf682228661
+- Pagina Notion: https://app.notion.com/p/Natalia-Andrea-Morales-34fc40c66f09800e8bc9dcf682228661
 
 ## Llamadas registradas
 

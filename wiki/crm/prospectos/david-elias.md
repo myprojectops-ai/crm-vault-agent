@@ -1,6 +1,6 @@
 # David Elias
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-Elias-34bc40c66f0980fe820bff54dbda771d
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/David-Elias-34bc40c66f0980fe820bff54dbda771d
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/MKo4oNJhTxVjrr1LJbQQhg16pULtSw-z
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/David-Elias-34bc40c66f0980fe820bff54dbda771d
+- Pagina Notion: https://app.notion.com/p/David-Elias-34bc40c66f0980fe820bff54dbda771d
 
 ## Llamadas registradas
 

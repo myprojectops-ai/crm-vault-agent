@@ -1,6 +1,6 @@
 # Guillermo Eduardo Moreno
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Guillermo-Eduardo-Moreno-337c40c66f0980f8845eeffa000d34c0
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Guillermo-Eduardo-Moreno-337c40c66f0980f8845eeffa000d34c0
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Guillermo-E
 
 - Grabacion: https://fathom.video/calls/630010711
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Guillermo-Eduardo-Moreno-337c40c66f0980f8845eeffa000d34c0
+- Pagina Notion: https://app.notion.com/p/Guillermo-Eduardo-Moreno-337c40c66f0980f8845eeffa000d34c0
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Mauricio Arango
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mauricio-Arango-34cc40c66f098069b82bf0fa57031ada
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mauricio-Arango-34cc40c66f098069b82bf0fa57031ada
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mauricio-Ar
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Mauricio-Arango-34cc40c66f098069b82bf0fa57031ada
+- Pagina Notion: https://app.notion.com/p/Mauricio-Arango-34cc40c66f098069b82bf0fa57031ada
 
 ## Llamadas registradas
 

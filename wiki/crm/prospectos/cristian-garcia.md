@@ -1,6 +1,6 @@
 # Cristian Garcia
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Cristian-Garcia-333c40c66f098062aedae6e97ea611d3
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Cristian-Garcia-333c40c66f098062aedae6e97ea611d3
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Cristian-Ga
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Cristian-Garcia-333c40c66f098062aedae6e97ea611d3
+- Pagina Notion: https://app.notion.com/p/Cristian-Garcia-333c40c66f098062aedae6e97ea611d3
 
 ## Llamadas registradas
 

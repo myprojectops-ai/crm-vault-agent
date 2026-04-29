@@ -1,6 +1,6 @@
 # Viviana Montojeda
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Viviana-Montojeda-337c40c66f0980088269f26c03c80895
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Viviana-Montojeda-337c40c66f0980088269f26c03c80895
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Viviana-Mon
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Viviana-Montojeda-337c40c66f0980088269f26c03c80895
+- Pagina Notion: https://app.notion.com/p/Viviana-Montojeda-337c40c66f0980088269f26c03c80895
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Danna Santamaria
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Danna-Santamaria-33ac40c66f0980bd9d80f2a94368a0d1
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Danna-Santamaria-33ac40c66f0980bd9d80f2a94368a0d1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Danna-Santa
 
 - Grabacion: https://fathom.video/calls/635640831
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Danna-Santamaria-33ac40c66f0980bd9d80f2a94368a0d1
+- Pagina Notion: https://app.notion.com/p/Danna-Santamaria-33ac40c66f0980bd9d80f2a94368a0d1
 
 ## Llamadas registradas
 

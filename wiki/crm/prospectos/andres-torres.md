@@ -1,6 +1,6 @@
 # Andres Torres
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Torres-330c40c66f09801caac8d6adca958db8
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Torres-330c40c66f09801caac8d6adca958db8
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Torr
 
 - Grabacion: https://fathom.video/share/Qt_y6JNCEpidTbpcy6k8Du489hSL_mEg
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Andres-Torres-330c40c66f09801caac8d6adca958db8
+- Pagina Notion: https://app.notion.com/p/Andres-Torres-330c40c66f09801caac8d6adca958db8
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Garbett Bedoya
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Garbett-Bedoya-34fc40c66f0980c0a738fc680ecaef36
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Garbett-Bedoya-34fc40c66f0980c0a738fc680ecaef36
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Garbett-Bed
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Garbett-Bedoya-34fc40c66f0980c0a738fc680ecaef36
+- Pagina Notion: https://app.notion.com/p/Garbett-Bedoya-34fc40c66f0980c0a738fc680ecaef36
 
 ## Llamadas registradas
 

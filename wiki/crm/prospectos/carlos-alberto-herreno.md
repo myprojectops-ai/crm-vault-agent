@@ -1,6 +1,6 @@
 # Carlos Alberto Herreño
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Alberto-Herre-o-33ac40c66f098017b9eceea1ee63eabe
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-Alberto-Herre-o-33ac40c66f098017b9eceea1ee63eabe
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Albe
 
 - Grabacion: https://fathom.video/calls/645479702
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Carlos-Alberto-Herre-o-33ac40c66f098017b9eceea1ee63eabe
+- Pagina Notion: https://app.notion.com/p/Carlos-Alberto-Herre-o-33ac40c66f098017b9eceea1ee63eabe
 
 ## Llamadas registradas
 

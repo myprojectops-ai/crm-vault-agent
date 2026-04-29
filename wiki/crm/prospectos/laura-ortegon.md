@@ -1,6 +1,6 @@
 # Laura Ortegon
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Laura-Ortegon-349c40c66f098081ba9aee638d242ed0
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Laura-Ortegon-349c40c66f098081ba9aee638d242ed0
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Laura-Orteg
 
 - Grabacion: https://fathom.video/calls/645711844
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Laura-Ortegon-349c40c66f098081ba9aee638d242ed0
+- Pagina Notion: https://app.notion.com/p/Laura-Ortegon-349c40c66f098081ba9aee638d242ed0
 
 ## Llamadas registradas
 

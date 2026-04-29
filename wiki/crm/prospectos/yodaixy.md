@@ -1,6 +1,6 @@
 # Yodaixy
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Yodaixy-341c40c66f0980e28a2be2849430a397
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Yodaixy-341c40c66f0980e28a2be2849430a397
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Yodaixy-341
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Yodaixy-341c40c66f0980e28a2be2849430a397
+- Pagina Notion: https://app.notion.com/p/Yodaixy-341c40c66f0980e28a2be2849430a397
 
 ## Llamadas registradas
 

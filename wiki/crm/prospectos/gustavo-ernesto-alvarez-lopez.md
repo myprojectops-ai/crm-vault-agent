@@ -1,6 +1,6 @@
 # Gustavo Ernesto Alvarez Lopez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Gustavo-Ernesto-Alvarez-Lopez-345c40c66f09815d8a11dc062679a5a8
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Gustavo-Ernesto-Alvarez-Lopez-345c40c66f09815d8a11dc062679a5a8
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Gustavo-Ern
 
 - Grabacion: https://fathom.video/calls/636508843
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Gustavo-Ernesto-Alvarez-Lopez-345c40c66f09815d8a11dc062679a5a8
+- Pagina Notion: https://app.notion.com/p/Gustavo-Ernesto-Alvarez-Lopez-345c40c66f09815d8a11dc062679a5a8
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Thiago Velez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Thiago-Velez-343c40c66f0981bdb0d1f338983e1672
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Thiago-Velez-343c40c66f0981bdb0d1f338983e1672
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Thiago-Vele
 
 - Grabacion: https://fathom.video/calls/635640826
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Thiago-Velez-343c40c66f0981bdb0d1f338983e1672
+- Pagina Notion: https://app.notion.com/p/Thiago-Velez-343c40c66f0981bdb0d1f338983e1672
 
 ## Llamadas registradas
 

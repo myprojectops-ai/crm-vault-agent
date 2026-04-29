@@ -1,6 +1,6 @@
 # Leonardo Cardenas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Leonardo-Cardenas-da384d9dd31c4f56b766c33b6ed76130
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Leonardo-Cardenas-da384d9dd31c4f56b766c33b6ed76130
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Leonardo-Ca
 
 - Grabacion: https://fathom.video/calls/641873392
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Leonardo-Cardenas-da384d9dd31c4f56b766c33b6ed76130
+- Pagina Notion: https://app.notion.com/p/Leonardo-Cardenas-da384d9dd31c4f56b766c33b6ed76130
 
 ## Llamadas registradas
 

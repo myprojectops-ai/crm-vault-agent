@@ -1,6 +1,6 @@
 # Milton Hernandez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Milton-Hernandez-328c40c66f098097bf41c942ce210843
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Milton-Hernandez-328c40c66f098097bf41c942ce210843
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Milton-Hern
 
 - Grabacion: https://fathom.video/share/zMAGYz47Mci6Cgp8menhcGbB3xsy5sAi
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Milton-Hernandez-328c40c66f098097bf41c942ce210843
+- Pagina Notion: https://app.notion.com/p/Milton-Hernandez-328c40c66f098097bf41c942ce210843
 
 ## Llamadas registradas
 

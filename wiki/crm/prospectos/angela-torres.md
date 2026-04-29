@@ -1,6 +1,6 @@
 # Angela Torres
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Angela-Torres-349c40c66f098010b882ff6ddf4ad386
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Angela-Torres-349c40c66f098010b882ff6ddf4ad386
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Angela-Torr
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Angela-Torres-349c40c66f098010b882ff6ddf4ad386
+- Pagina Notion: https://app.notion.com/p/Angela-Torres-349c40c66f098010b882ff6ddf4ad386
 
 ## Llamadas registradas
 

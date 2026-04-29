@@ -1,6 +1,6 @@
 # Said Vargas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Said-Vargas-334c40c66f0980679b8ef8435aec6380
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Said-Vargas-334c40c66f0980679b8ef8435aec6380
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Said-Vargas
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Said-Vargas-334c40c66f0980679b8ef8435aec6380
+- Pagina Notion: https://app.notion.com/p/Said-Vargas-334c40c66f0980679b8ef8435aec6380
 
 ## Llamadas registradas
 

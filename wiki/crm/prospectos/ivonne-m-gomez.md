@@ -1,6 +1,6 @@
 # Ivonne M Gómez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivonne-M-G-mez-34fc40c66f09801e87cef946f7109093
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ivonne-M-G-mez-34fc40c66f09801e87cef946f7109093
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivonne-M-G-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ivonne-M-G-mez-34fc40c66f09801e87cef946f7109093
+- Pagina Notion: https://app.notion.com/p/Ivonne-M-G-mez-34fc40c66f09801e87cef946f7109093
 
 ## Llamadas registradas
 

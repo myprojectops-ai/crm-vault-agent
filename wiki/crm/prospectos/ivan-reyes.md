@@ -1,6 +1,6 @@
 # Ivan Reyes
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivan-Reyes-349c40c66f0980febe96e343d331c970
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ivan-Reyes-349c40c66f0980febe96e343d331c970
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivan-Reyes-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Ivan-Reyes-349c40c66f0980febe96e343d331c970
+- Pagina Notion: https://app.notion.com/p/Ivan-Reyes-349c40c66f0980febe96e343d331c970
 
 ## Llamadas registradas
 

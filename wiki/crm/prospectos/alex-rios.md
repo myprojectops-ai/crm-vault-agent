@@ -1,6 +1,6 @@
 # Alex Rios
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alex-Rios-338c40c66f0980aea040d99157a81086
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alex-Rios-338c40c66f0980aea040d99157a81086
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alex-Rios-3
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Alex-Rios-338c40c66f0980aea040d99157a81086
+- Pagina Notion: https://app.notion.com/p/Alex-Rios-338c40c66f0980aea040d99157a81086
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # David Amaya
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-Amaya-6beabfe97fe44248911b05564a648a75
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/David-Amaya-6beabfe97fe44248911b05564a648a75
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-Amaya
 
 - Grabacion: https://fathom.video/share/eVEyPbmfSFs9ywSV8x6bG2_oL_MNCm6x
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/David-Amaya-6beabfe97fe44248911b05564a648a75
+- Pagina Notion: https://app.notion.com/p/David-Amaya-6beabfe97fe44248911b05564a648a75
 
 ## Llamadas registradas
 

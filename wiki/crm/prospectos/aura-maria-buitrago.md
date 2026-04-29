@@ -1,6 +1,6 @@
 # Aura Maria Buitrago
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Aura-Maria-Buitrago-6311f688805e4df5b94742eef4a7e50e
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Aura-Maria-Buitrago-6311f688805e4df5b94742eef4a7e50e
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Aura-Maria-
 
 - Grabacion: https://fathom.video/share/kMqCrd4ZNzPjyE5qkouAzdfzwi768XDd
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Aura-Maria-Buitrago-6311f688805e4df5b94742eef4a7e50e
+- Pagina Notion: https://app.notion.com/p/Aura-Maria-Buitrago-6311f688805e4df5b94742eef4a7e50e
 
 ## Llamadas registradas
 

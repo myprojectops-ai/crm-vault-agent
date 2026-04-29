@@ -1,6 +1,6 @@
 # Piedad Muñoz Rojas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Piedad-Mu-oz-Rojas-345c40c66f0981239e4edc9d41ba13f1
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Piedad-Mu-oz-Rojas-345c40c66f0981239e4edc9d41ba13f1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Piedad-Mu-o
 
 - Grabacion: https://fathom.video/calls/638034986
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Piedad-Mu-oz-Rojas-345c40c66f0981239e4edc9d41ba13f1
+- Pagina Notion: https://app.notion.com/p/Piedad-Mu-oz-Rojas-345c40c66f0981239e4edc9d41ba13f1
 
 ## Llamadas registradas
 

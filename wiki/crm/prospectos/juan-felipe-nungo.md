@@ -1,6 +1,6 @@
 # Juan Felipe Ñungo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Felipe-ungo-349c40c66f09809a9610f53c60f2cbe2
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Felipe-ungo-349c40c66f09809a9610f53c60f2cbe2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Felipe
 
 - Grabacion: https://fathom.video/calls/648721452
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Felipe-ungo-349c40c66f09809a9610f53c60f2cbe2
+- Pagina Notion: https://app.notion.com/p/Juan-Felipe-ungo-349c40c66f09809a9610f53c60f2cbe2
 
 ## Llamadas registradas
 

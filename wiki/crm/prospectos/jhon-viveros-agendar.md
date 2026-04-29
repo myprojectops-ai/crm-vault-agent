@@ -1,6 +1,6 @@
 # Jhon Viveros AGENDAR
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jhon-Viveros-AGENDAR-34cc40c66f09804a9316d5cb1e67ca1f
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jhon-Viveros-AGENDAR-34cc40c66f09804a9316d5cb1e67ca1f
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jhon-Vivero
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jhon-Viveros-AGENDAR-34cc40c66f09804a9316d5cb1e67ca1f
+- Pagina Notion: https://app.notion.com/p/Jhon-Viveros-AGENDAR-34cc40c66f09804a9316d5cb1e67ca1f
 
 ## Llamadas registradas
 

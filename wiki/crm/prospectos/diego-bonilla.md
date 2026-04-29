@@ -1,6 +1,6 @@
 # Diego Bonilla
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Bonilla-32fc40c66f09809b94e9c5f6bde1ffed
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Bonilla-32fc40c66f09809b94e9c5f6bde1ffed
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Bonil
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Diego-Bonilla-32fc40c66f09809b94e9c5f6bde1ffed
+- Pagina Notion: https://app.notion.com/p/Diego-Bonilla-32fc40c66f09809b94e9c5f6bde1ffed
 
 ## Llamadas registradas
 

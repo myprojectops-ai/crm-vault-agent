@@ -1,6 +1,6 @@
 # Lina Prada
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Lina-Prada-32dc40c66f0980a8b50dedb6a0102973
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Lina-Prada-32dc40c66f0980a8b50dedb6a0102973
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Lina-Prada-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Lina-Prada-32dc40c66f0980a8b50dedb6a0102973
+- Pagina Notion: https://app.notion.com/p/Lina-Prada-32dc40c66f0980a8b50dedb6a0102973
 
 ## Llamadas registradas
 

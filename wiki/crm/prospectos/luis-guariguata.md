@@ -1,6 +1,6 @@
 # Luis Guariguata
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Guariguata-344c40c66f09806286ddc941c33866f6
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luis-Guariguata-344c40c66f09806286ddc941c33866f6
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Guarig
 
 - Grabacion: https://fathom.video/calls/641386066
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Luis-Guariguata-344c40c66f09806286ddc941c33866f6
+- Pagina Notion: https://app.notion.com/p/Luis-Guariguata-344c40c66f09806286ddc941c33866f6
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Carlos Alberto Lopez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Alberto-Lopez-326c40c66f09805da3d4c10b625ffbf6
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-Alberto-Lopez-326c40c66f09805da3d4c10b625ffbf6
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Albe
 
 - Grabacion: https://fathom.video/share/sXnZjNcdFD1XrN2ooWh3Ax4UoaSLFze_
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Carlos-Alberto-Lopez-326c40c66f09805da3d4c10b625ffbf6
+- Pagina Notion: https://app.notion.com/p/Carlos-Alberto-Lopez-326c40c66f09805da3d4c10b625ffbf6
 
 ## Llamadas registradas
 

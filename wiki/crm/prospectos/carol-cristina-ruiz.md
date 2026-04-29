@@ -1,6 +1,6 @@
 # Carol Cristina Ruiz
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carol-Cristina-Ruiz-33ac40c66f09806b884df3de83df6544
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carol-Cristina-Ruiz-33ac40c66f09806b884df3de83df6544
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carol-Crist
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Carol-Cristina-Ruiz-33ac40c66f09806b884df3de83df6544
+- Pagina Notion: https://app.notion.com/p/Carol-Cristina-Ruiz-33ac40c66f09806b884df3de83df6544
 
 ## Llamadas registradas
 

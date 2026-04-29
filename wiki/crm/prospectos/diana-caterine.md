@@ -1,6 +1,6 @@
 # Diana Caterine
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diana-Caterine-34fc40c66f098025b089e2806eb58ac7
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diana-Caterine-34fc40c66f098025b089e2806eb58ac7
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diana-Cater
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Diana-Caterine-34fc40c66f098025b089e2806eb58ac7
+- Pagina Notion: https://app.notion.com/p/Diana-Caterine-34fc40c66f098025b089e2806eb58ac7
 
 ## Llamadas registradas
 

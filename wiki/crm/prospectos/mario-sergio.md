@@ -1,6 +1,6 @@
 # Mario Sergio
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mario-Sergio-177f72afc8da4ff4afda89b505c3d53f
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mario-Sergio-177f72afc8da4ff4afda89b505c3d53f
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mario-Sergi
 
 - Grabacion: https://fathom.video/share/2fUZzjHLJ-p8vB85KQTTuFcJnSS1Rhkb
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Mario-Sergio-177f72afc8da4ff4afda89b505c3d53f
+- Pagina Notion: https://app.notion.com/p/Mario-Sergio-177f72afc8da4ff4afda89b505c3d53f
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Juan Amaya
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Amaya-34ac40c66f098154b5acd8b0d4b14def
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Amaya-34ac40c66f098154b5acd8b0d4b14def
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Amaya-
 
 - Grabacion: https://fathom.video/calls/643990934
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Amaya-34ac40c66f098154b5acd8b0d4b14def
+- Pagina Notion: https://app.notion.com/p/Juan-Amaya-34ac40c66f098154b5acd8b0d4b14def
 
 ## Llamadas registradas
 

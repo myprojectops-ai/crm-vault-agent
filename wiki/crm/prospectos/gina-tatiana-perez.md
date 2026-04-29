@@ -1,6 +1,6 @@
 # Gina Tatiana Pérez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Gina-Tatiana-P-rez-33ac40c66f0980838e12dba9902421ae
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Gina-Tatiana-P-rez-33ac40c66f0980838e12dba9902421ae
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Gina-Tatian
 
 - Grabacion: https://fathom.video/calls/645479699
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Gina-Tatiana-P-rez-33ac40c66f0980838e12dba9902421ae
+- Pagina Notion: https://app.notion.com/p/Gina-Tatiana-P-rez-33ac40c66f0980838e12dba9902421ae
 
 ## Llamadas registradas
 

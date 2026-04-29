@@ -1,6 +1,6 @@
 # David Eduardo Leal
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-Eduardo-Leal-706b5b53d53e453f98b8b8f6c40ab1cb
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/David-Eduardo-Leal-706b5b53d53e453f98b8b8f6c40ab1cb
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-Eduar
 
 - Grabacion: https://fathom.video/share/FWP6PJvHBVssvX2YgfVx7snzGxB_xb8U
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/David-Eduardo-Leal-706b5b53d53e453f98b8b8f6c40ab1cb
+- Pagina Notion: https://app.notion.com/p/David-Eduardo-Leal-706b5b53d53e453f98b8b8f6c40ab1cb
 
 ## Llamadas registradas
 

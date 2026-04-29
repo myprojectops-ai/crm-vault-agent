@@ -1,6 +1,6 @@
 # Luz Dary Pulido
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luz-Dary-Pulido-32bc40c66f0980599dedc05abaa7b1e2
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luz-Dary-Pulido-32bc40c66f0980599dedc05abaa7b1e2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luz-Dary-Pu
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Luz-Dary-Pulido-32bc40c66f0980599dedc05abaa7b1e2
+- Pagina Notion: https://app.notion.com/p/Luz-Dary-Pulido-32bc40c66f0980599dedc05abaa7b1e2
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Adriana Cardenas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Adriana-Cardenas-c7c21f97223d461494542e6831836772
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Adriana-Cardenas-c7c21f97223d461494542e6831836772
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Adriana-Car
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Adriana-Cardenas-c7c21f97223d461494542e6831836772
+- Pagina Notion: https://app.notion.com/p/Adriana-Cardenas-c7c21f97223d461494542e6831836772
 
 ## Llamadas registradas
 

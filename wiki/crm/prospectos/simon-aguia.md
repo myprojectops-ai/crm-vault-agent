@@ -1,6 +1,6 @@
 # Simón Aguía
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Sim-n-Agu-a-333c40c66f0981cea8fdcfb8e9fc0195
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sim-n-Agu-a-333c40c66f0981cea8fdcfb8e9fc0195
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Sim-n-Agu-a
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Sim-n-Agu-a-333c40c66f0981cea8fdcfb8e9fc0195
+- Pagina Notion: https://app.notion.com/p/Sim-n-Agu-a-333c40c66f0981cea8fdcfb8e9fc0195
 
 ## Llamadas registradas
 

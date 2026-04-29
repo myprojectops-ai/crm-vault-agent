@@ -1,6 +1,6 @@
 # Diego Fernando Salazar
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Fernando-Salazar-333c40c66f0980398233f327ff5473be
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Fernando-Salazar-333c40c66f0980398233f327ff5473be
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Ferna
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Diego-Fernando-Salazar-333c40c66f0980398233f327ff5473be
+- Pagina Notion: https://app.notion.com/p/Diego-Fernando-Salazar-333c40c66f0980398233f327ff5473be
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Jorge Enrique Moreno
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jorge-Enrique-Moreno-32fc40c66f0980e1bebbd9510e634cab
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jorge-Enrique-Moreno-32fc40c66f0980e1bebbd9510e634cab
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jorge-Enriq
 
 - Grabacion: https://fathom.video/share/LtsLheEmqfB8hzipk1VECk9KuirYwtke
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jorge-Enrique-Moreno-32fc40c66f0980e1bebbd9510e634cab
+- Pagina Notion: https://app.notion.com/p/Jorge-Enrique-Moreno-32fc40c66f0980e1bebbd9510e634cab
 
 ## Llamadas registradas
 

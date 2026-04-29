@@ -1,6 +1,6 @@
 # Francisco Franco Jaramillo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Francisco-Franco-Jaramillo-32ac40c66f0980449ca1ffbadc8ba1d1
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Francisco-Franco-Jaramillo-32ac40c66f0980449ca1ffbadc8ba1d1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Francisco-F
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Francisco-Franco-Jaramillo-32ac40c66f0980449ca1ffbadc8ba1d1
+- Pagina Notion: https://app.notion.com/p/Francisco-Franco-Jaramillo-32ac40c66f0980449ca1ffbadc8ba1d1
 
 ## Llamadas registradas
 

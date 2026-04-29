@@ -1,6 +1,6 @@
 # Andrea Murcia
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andrea-Murcia-33ac40c66f09808db4f9ffb72e7454fd
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andrea-Murcia-33ac40c66f09808db4f9ffb72e7454fd
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andrea-Murc
 
 - Grabacion: https://fathom.video/calls/638034974
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Andrea-Murcia-33ac40c66f09808db4f9ffb72e7454fd
+- Pagina Notion: https://app.notion.com/p/Andrea-Murcia-33ac40c66f09808db4f9ffb72e7454fd
 
 ## Llamadas registradas
 

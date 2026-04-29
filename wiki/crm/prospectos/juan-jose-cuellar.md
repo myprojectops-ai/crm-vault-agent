@@ -1,6 +1,6 @@
 # Juan Jose Cuellar
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Jose-Cuellar-6b3004c843c74696b4e9c04f2af45fd7
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Jose-Cuellar-6b3004c843c74696b4e9c04f2af45fd7
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Jose-C
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Juan-Jose-Cuellar-6b3004c843c74696b4e9c04f2af45fd7
+- Pagina Notion: https://app.notion.com/p/Juan-Jose-Cuellar-6b3004c843c74696b4e9c04f2af45fd7
 
 ## Llamadas registradas
 

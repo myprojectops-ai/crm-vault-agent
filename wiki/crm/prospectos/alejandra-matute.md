@@ -1,6 +1,6 @@
 # Alejandra Matute
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alejandra-Matute-997d1dc637664420849b760c42686256
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alejandra-Matute-997d1dc637664420849b760c42686256
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alejandra-M
 
 - Grabacion: https://fathom.video/share/gjkTTuYgDEhci5JFez5yHJA4ueVSynXZ
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Alejandra-Matute-997d1dc637664420849b760c42686256
+- Pagina Notion: https://app.notion.com/p/Alejandra-Matute-997d1dc637664420849b760c42686256
 
 ## Llamadas registradas
 

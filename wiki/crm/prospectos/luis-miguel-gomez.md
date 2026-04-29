@@ -1,6 +1,6 @@
 # Luis Miguel Gomez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Miguel-Gomez-337c40c66f0980908f74e4bbe7152fdf
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luis-Miguel-Gomez-337c40c66f0980908f74e4bbe7152fdf
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Miguel
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Luis-Miguel-Gomez-337c40c66f0980908f74e4bbe7152fdf
+- Pagina Notion: https://app.notion.com/p/Luis-Miguel-Gomez-337c40c66f0980908f74e4bbe7152fdf
 
 ## Llamadas registradas
 

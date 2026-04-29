@@ -1,6 +1,6 @@
 # Edwin Rodriguez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Edwin-Rodriguez-326c40c66f09801bbf30f2bba1a1273c
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Edwin-Rodriguez-326c40c66f09801bbf30f2bba1a1273c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Edwin-Rodri
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Edwin-Rodriguez-326c40c66f09801bbf30f2bba1a1273c
+- Pagina Notion: https://app.notion.com/p/Edwin-Rodriguez-326c40c66f09801bbf30f2bba1a1273c
 
 ## Llamadas registradas
 

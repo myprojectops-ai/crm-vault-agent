@@ -1,6 +1,6 @@
 # Claudia Patricia Alarcon
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Claudia-Patricia-Alarcon-344c40c66f0980dab2d4c06ff33738e6
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Claudia-Patricia-Alarcon-344c40c66f0980dab2d4c06ff33738e6
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Claudia-Pat
 
 - Grabacion: https://fathom.video/calls/648113765
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Claudia-Patricia-Alarcon-344c40c66f0980dab2d4c06ff33738e6
+- Pagina Notion: https://app.notion.com/p/Claudia-Patricia-Alarcon-344c40c66f0980dab2d4c06ff33738e6
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Andres Felipe Rojas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Felipe-Rojas-341c40c66f098033aedee4b0cc3dcda8
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Felipe-Rojas-341c40c66f098033aedee4b0cc3dcda8
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Feli
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Andres-Felipe-Rojas-341c40c66f098033aedee4b0cc3dcda8
+- Pagina Notion: https://app.notion.com/p/Andres-Felipe-Rojas-341c40c66f098033aedee4b0cc3dcda8
 
 ## Llamadas registradas
 

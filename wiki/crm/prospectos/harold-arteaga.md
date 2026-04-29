@@ -1,6 +1,6 @@
 # Harold Arteaga
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Harold-Arteaga-44d90f9b389e43f39cff7290dc56abf9
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Harold-Arteaga-44d90f9b389e43f39cff7290dc56abf9
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Harold-Arte
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Harold-Arteaga-44d90f9b389e43f39cff7290dc56abf9
+- Pagina Notion: https://app.notion.com/p/Harold-Arteaga-44d90f9b389e43f39cff7290dc56abf9
 
 ## Llamadas registradas
 

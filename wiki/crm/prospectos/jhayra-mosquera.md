@@ -1,6 +1,6 @@
 # Jhayra Mosquera
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jhayra-Mosquera-34fc40c66f0980499086ce2253d12aa6
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jhayra-Mosquera-34fc40c66f0980499086ce2253d12aa6
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jhayra-Mosq
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jhayra-Mosquera-34fc40c66f0980499086ce2253d12aa6
+- Pagina Notion: https://app.notion.com/p/Jhayra-Mosquera-34fc40c66f0980499086ce2253d12aa6
 
 ## Llamadas registradas
 

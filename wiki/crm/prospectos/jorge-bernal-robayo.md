@@ -1,6 +1,6 @@
 # Jorge Bernal Robayo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jorge-Bernal-Robayo-341c40c66f09805483cefeae432c97aa
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jorge-Bernal-Robayo-341c40c66f09805483cefeae432c97aa
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/Kw9b9mm2_dDZevfFheUy7U2doAnyQzHa
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Jorge-Bernal-Robayo-341c40c66f09805483cefeae432c97aa
+- Pagina Notion: https://app.notion.com/p/Jorge-Bernal-Robayo-341c40c66f09805483cefeae432c97aa
 
 ## Llamadas registradas
 

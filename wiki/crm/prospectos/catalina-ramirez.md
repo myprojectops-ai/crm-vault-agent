@@ -1,6 +1,6 @@
 # Catalina Ramirez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Catalina-Ramirez-341c40c66f0980bdaca1c1a6642bd9e7
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Catalina-Ramirez-341c40c66f0980bdaca1c1a6642bd9e7
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Catalina-Ra
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Catalina-Ramirez-341c40c66f0980bdaca1c1a6642bd9e7
+- Pagina Notion: https://app.notion.com/p/Catalina-Ramirez-341c40c66f0980bdaca1c1a6642bd9e7
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Fabian Cardenas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Fabian-Cardenas-344c40c66f09809cb7bfe002b9274b40
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Fabian-Cardenas-344c40c66f09809cb7bfe002b9274b40
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Fabian-Card
 
 - Grabacion: https://fathom.video/calls/641386059
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Fabian-Cardenas-344c40c66f09809cb7bfe002b9274b40
+- Pagina Notion: https://app.notion.com/p/Fabian-Cardenas-344c40c66f09809cb7bfe002b9274b40
 
 ## Llamadas registradas
 

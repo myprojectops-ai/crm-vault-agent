@@ -1,6 +1,6 @@
 # Diego Guzmán
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Guzm-n-346c40c66f09812ba713fb921987e47d
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Guzm-n-346c40c66f09812ba713fb921987e47d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Guzm-
 
 - Grabacion: https://fathom.video/calls/640961502
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Diego-Guzm-n-346c40c66f09812ba713fb921987e47d
+- Pagina Notion: https://app.notion.com/p/Diego-Guzm-n-346c40c66f09812ba713fb921987e47d
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Fredy Harbey Saenz
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Fredy-Harbey-Saenz-349c40c66f0980af8b24e6e3de2dd2df
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Fredy-Harbey-Saenz-349c40c66f0980af8b24e6e3de2dd2df
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Fredy-Harbe
 
 - Grabacion: https://fathom.video/calls/646160305
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Fredy-Harbey-Saenz-349c40c66f0980af8b24e6e3de2dd2df
+- Pagina Notion: https://app.notion.com/p/Fredy-Harbey-Saenz-349c40c66f0980af8b24e6e3de2dd2df
 
 ## Llamadas registradas
 

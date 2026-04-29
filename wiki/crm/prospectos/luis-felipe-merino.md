@@ -1,6 +1,6 @@
 # Luis Felipe Merino
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Felipe-Merino-333c40c66f0980c7ada5c5c2da7f40db
+Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luis-Felipe-Merino-333c40c66f0980c7ada5c5c2da7f40db
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Felipe
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://www.notion.so/Luis-Felipe-Merino-333c40c66f0980c7ada5c5c2da7f40db
+- Pagina Notion: https://app.notion.com/p/Luis-Felipe-Merino-333c40c66f0980c7ada5c5c2da7f40db
 
 ## Llamadas registradas
 
