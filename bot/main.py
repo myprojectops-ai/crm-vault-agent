@@ -89,7 +89,10 @@ async def message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         apply_edit(settings, pending)
         await update.message.reply_text("Cambio aplicado en Notion. Usa /sync para actualizar el vault ahora.")
         return
-    answer = answer_question(text, settings)
+    try:
+        answer = answer_question(text, settings)
+    except Exception as exc:
+        answer = f"Tuve un error consultando el vault: {str(exc)[:500]}"
     await update.message.reply_text(answer[:3900])
 
 
