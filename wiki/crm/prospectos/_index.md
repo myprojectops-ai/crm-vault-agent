@@ -2,10 +2,10 @@
 
 Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y clientes cerrados.
 
-- **Total registros**: 230
+- **Total registros**: 231
 - **Cliente Cerrado**: 24
 - **Prospecto** (estado explicito): 19
-- **Sin estado asignado**: 187
+- **Sin estado asignado**: 188
 
 ## Listado completo (orden alfabetico)
 
@@ -50,6 +50,7 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 | [[camilo-martinez|Camilo Martinez]] | Cliente Cerrado | - | - | 2026-02-26 | - |
 | [[carlos-alberto-herreno|Carlos Alberto Herreño]] | Cliente Cerrado | - | - | 2026-03-04 | - |
 | [[carlos-alberto-lopez|Carlos Alberto Lopez]] | - | Descartado | - | 2026-03-19 | - |
+| [[carlos-andres-posada|Carlos Andres Posada]] | - | - | - | - | - |
 | [[carlos-eduardo-rodriguez|Carlos Eduardo Rodriguez]] | - | - | - | - | - |
 | [[carlos-ivan-letrado|Carlos Ivan Letrado]] | - | No show | - | 2026-03-13 | $0 |
 | [[carlos-suspes|Carlos Suspes]] | - | No contesto | - | - | - |
@@ -293,7 +294,7 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 - [[thiago-velez|Thiago Velez]] · - · llamada -
 - [[yesica-ortegon|Yesica Ortegon]] · Seguimiento · llamada 2026-04-13
 
-### Sin estado asignado (187)
+### Sin estado asignado (188)
 
 - [[abel-loaiza|Abel Loaiza]] · Consiguiendo dinero · llamada 2026-04-01
 - [[adrian-hernandez|Adrian Hernandez]] · - · llamada -
@@ -327,6 +328,7 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 - [[brayan-naranjo-guerrero|Brayan Naranjo Guerrero]] · - · llamada -
 - [[calendarios-enviados|CALENDARIOS ENVIADOS]] · - · llamada -
 - [[carlos-alberto-lopez|Carlos Alberto Lopez]] · Descartado · llamada 2026-03-19
+- [[carlos-andres-posada|Carlos Andres Posada]] · - · llamada -
 - [[carlos-eduardo-rodriguez|Carlos Eduardo Rodriguez]] · - · llamada -
 - [[carlos-ivan-letrado|Carlos Ivan Letrado]] · No show · llamada 2026-03-13
 - [[carlos-suspes|Carlos Suspes]] · No contesto · llamada -

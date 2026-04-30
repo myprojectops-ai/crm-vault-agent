@@ -11,10 +11,14 @@
             "id": "97e01dc20ee8050e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/crm/crm-acelera.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "crm-acelera"
             }
           }
         ]
@@ -181,10 +185,12 @@
   },
   "active": "97e01dc20ee8050e",
   "lastOpenFiles": [
+    "crm_vault_agent/__pycache__/structured_answers.cpython-313.pyc",
+    "crm_vault_agent/structured_answers.py",
+    "wiki/crm/_index.md",
     "wiki/crm/crm-acelera.md",
     "2026-04-25.md",
     "que conversaciones hubo ayer.md",
-    "wiki/crm/_index.md",
     "wiki/crm/clientes-cerrados.md",
     "wiki/crm/prospectos/oscar-fuentes.md",
     "wiki/crm/prospectos/miguel-antonio-roa.md",
@@ -206,7 +212,6 @@
     "wiki/crm/prospectos/andres-ramirez.md",
     "wiki/crm/prospectos/jorge-enrique-moreno.md",
     "wiki/crm/prospectos/ivonne-maritza.md",
-    "wiki/crm/prospectos/duvany-echeverry.md",
     "wiki/crm/prospectos/sergio-sanchez.md.tmp.16936.1776909578253",
     "wiki/crm/prospectos/juan-pablo-marquez.md.tmp.16936.1776909171924",
     "wiki/crm/prospectos/jota.md.tmp.16936.1776908450911",
@@ -215,7 +220,6 @@
     "raw/_cerrados.json",
     "raw/_fetch_queue.json",
     "raw/pages",
-    "wiki/crm/prospectos",
-    "raw/_query_raw.txt"
+    "wiki/crm/prospectos"
   ]
 }
