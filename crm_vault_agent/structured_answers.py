@@ -11,6 +11,7 @@ from .crm_tools import (
     closed_clients,
     counts_summary,
     followups,
+    followup_recommendations,
     latest_calls,
     list_by_result,
     list_by_status,
@@ -45,6 +46,8 @@ def answer_structured_question(question: str, settings: Settings) -> str | None:
         return top_qualified(records, limit=max(limit, 10))
     if wants_closed_clients(text):
         return closed_clients(records, period=period, limit=max(limit, 10) if period else limit)
+    if wants_followup_recommendation(text):
+        return followup_recommendations(records, period=period, limit=max(limit, 10))
     if wants_followups(text):
         return followups(records, overdue=("vencid" in text or "hoy" in text), limit=max(limit, 10))
     if wants_counts(text):
@@ -154,6 +157,10 @@ def wants_closed_clients(text: str) -> bool:
 
 def wants_followups(text: str) -> bool:
     return "follow" in text or "seguimiento" in text or "proximo contacto" in text
+
+
+def wants_followup_recommendation(text: str) -> bool:
+    return wants_followups(text) and any(word in text for word in ["deberia", "deberia", "recomienda", "recomendarias", "porque", "por que", "quienes"])
 
 
 def wants_counts(text: str) -> bool:

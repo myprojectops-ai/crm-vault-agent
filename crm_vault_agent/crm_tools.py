@@ -127,6 +127,107 @@ def followups(records: list[CRMRecord], overdue: bool, limit: int = 10) -> str:
     return "\n".join(lines)
 
 
+def followup_recommendations(records: list[CRMRecord], period: tuple[str, str] | None, limit: int = 10) -> str:
+    if not period:
+        return "Dime el periodo para recomendar follow-ups, por ejemplo: `clientes de marzo para follow-up`."
+
+    start, end = period
+    candidates = []
+    for record in records:
+        if not record.call_date:
+            continue
+        call_day = parse_date(record.call_date).date().isoformat()
+        if not (start <= call_day <= end):
+            continue
+        if record.status == "Cliente Cerrado":
+            continue
+        if record.result in {"Descartado", "Perdida", "No dinero"}:
+            continue
+        score, reasons = followup_score(record)
+        if score <= 0:
+            continue
+        candidates.append((score, record, reasons))
+
+    candidates.sort(
+        key=lambda item: (
+            item[0],
+            item[1].qualified,
+            bool(item[1].next_contact_date and item[1].next_contact_date <= datetime.now(BOGOTA).date().isoformat()),
+            item[1].call_date,
+        ),
+        reverse=True,
+    )
+
+    if not candidates:
+        return f"No encontre candidatos claros para follow-up entre {start} y {end}."
+
+    lines = [f"Clientes/prospectos de {start} a {end} que recomendaria follow-up: {len(candidates)}"]
+    for idx, (_, record, reasons) in enumerate(candidates[:limit], start=1):
+        next_contact = display(record.next_contact_date, "sin fecha proximo contacto")
+        lines.append(
+            f"{idx}. {record.name} - {display(record.result, 'sin resultado')} - "
+            f"Calificado {format_money(record.qualified)} - proximo contacto: {next_contact}\n"
+            f"   Porque: {'; '.join(reasons)}"
+        )
+    if len(candidates) > limit:
+        lines.append(f"... y {len(candidates) - limit} mas.")
+    return "\n".join(lines)
+
+
+def followup_score(record: CRMRecord) -> tuple[int, list[str]]:
+    score = 0
+    reasons: list[str] = []
+    today = datetime.now(BOGOTA).date().isoformat()
+
+    result_scores = {
+        "Consiguiendo dinero": 5,
+        "Seguimiento": 4,
+        "Reagendada": 3,
+        "Agendar": 3,
+        "Agendado": 3,
+        "No contesto": 2,
+        "No show": 1,
+    }
+    if record.result in result_scores:
+        score += result_scores[record.result]
+        reasons.append(f"resultado `{record.result}` indica que el ciclo no esta cerrado")
+
+    if record.next_contact_date:
+        if record.next_contact_date <= today:
+            score += 4
+            reasons.append(f"tiene proximo contacto vencido o para hoy ({record.next_contact_date})")
+        else:
+            score += 1
+            reasons.append(f"ya tiene proximo contacto agendado ({record.next_contact_date})")
+    else:
+        score += 2
+        reasons.append("no tiene fecha de proximo contacto, conviene no dejarlo suelto")
+
+    if record.priority == "Alta":
+        score += 3
+        reasons.append("prioridad alta")
+    elif record.priority == "Media":
+        score += 1
+        reasons.append("prioridad media")
+
+    if record.qualified >= 20_000_000:
+        score += 3
+        reasons.append(f"monto calificado alto ({format_money(record.qualified)})")
+    elif record.qualified >= 10_000_000:
+        score += 2
+        reasons.append(f"monto calificado relevante ({format_money(record.qualified)})")
+
+    notes = " ".join(
+        str(value or "")
+        for value in [record.value("payment_notes"), record.value("call_notes")]
+    ).lower()
+    if any(word in notes for word in ["me dice", "contactar", "escribir", "responde", "avisa", "decidir"]):
+        score += 2
+        reasons.append("las notas sugieren una accion pendiente")
+
+    return score, reasons
+
+
 def counts_summary(records: list[CRMRecord]) -> str:
     by_status = count_by(records, lambda record: record.status or "Sin estado")
     by_result = count_by(records, lambda record: record.result or "Sin resultado")
