@@ -14,6 +14,9 @@ BOGOTA = ZoneInfo("America/Bogota")
 
 def answer_structured_question(question: str, settings: Settings) -> str | None:
     normalized = normalize(question)
+    requested_date = extract_requested_date(normalized)
+    if "llamada" in normalized and requested_date:
+        return calls_on_date(settings, requested_date)
     if "llamada" in normalized and any(word in normalized for word in ["ultima", "ultimas", "reciente", "recientes"]):
         limit = extract_limit(normalized, default=5)
         return latest_calls(settings, limit)
@@ -48,6 +51,35 @@ def latest_calls(settings: Settings, limit: int = 5) -> str:
         status = record.get("Estado Cliente") or "sin estado"
         recording = record.get("Link Grabacion") or record.get("Link Grabación") or ""
         line = f"{idx}. {name} - {format_date(date_value)} - {result} - {status}"
+        if recording:
+            line += f"\n   Grabacion: {recording}"
+        lines.append(line)
+    return "\n".join(lines)
+
+
+def calls_on_date(settings: Settings, date_text: str) -> str:
+    records = load_latest_records(settings)
+    rows = []
+    for record in records:
+        date_value = record.get("Fecha Ultima Llamada") or record.get("Fecha llamada")
+        if not date_value:
+            continue
+        if parse_date(date_value).date().isoformat() == date_text:
+            rows.append(record)
+
+    rows.sort(key=lambda record: parse_date(record.get("Fecha Ultima Llamada") or record.get("Fecha llamada")))
+
+    if not rows:
+        return f"No encontre llamadas registradas el {date_text} en el ultimo snapshot del CRM."
+
+    lines = [f"Llamadas registradas el {date_text}: {len(rows)}"]
+    for idx, record in enumerate(rows, start=1):
+        date_value = record.get("Fecha Ultima Llamada") or record.get("Fecha llamada")
+        name = record.get("Nombre Prospecto") or "(sin nombre)"
+        result = record.get("Resultado llamada") or "sin resultado"
+        status = record.get("Estado Cliente") or "sin estado"
+        recording = record.get("Link Grabacion") or record.get("Link Grabación") or ""
+        line = f"{idx}. {format_date(date_value)} - {name} - {result} - {status}"
         if recording:
             line += f"\n   Grabacion: {recording}"
         lines.append(line)
@@ -93,6 +125,40 @@ def extract_limit(text: str, default: int = 5) -> int:
     if not match:
         return default
     return max(1, min(int(match.group(1)), 20))
+
+
+def extract_requested_date(text: str) -> str | None:
+    iso_match = re.search(r"\b(20\d{2})-(\d{1,2})-(\d{1,2})\b", text)
+    if iso_match:
+        year, month, day = iso_match.groups()
+        return f"{int(year):04d}-{int(month):02d}-{int(day):02d}"
+
+    month_names = {
+        "enero": 1,
+        "febrero": 2,
+        "marzo": 3,
+        "abril": 4,
+        "mayo": 5,
+        "junio": 6,
+        "julio": 7,
+        "agosto": 8,
+        "septiembre": 9,
+        "setiembre": 9,
+        "octubre": 10,
+        "noviembre": 11,
+        "diciembre": 12,
+    }
+    date_match = re.search(
+        r"\b(\d{1,2})\s+de\s+([a-z]+)\s+(?:de|del)?\s*(20\d{2})\b",
+        text,
+    )
+    if not date_match:
+        return None
+    day, month_name, year = date_match.groups()
+    month = month_names.get(month_name)
+    if not month:
+        return None
+    return f"{int(year):04d}-{month:02d}-{int(day):02d}"
 
 
 def parse_date(value: str | None) -> datetime:
