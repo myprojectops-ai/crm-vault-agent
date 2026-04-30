@@ -1,6 +1,6 @@
 # CRM Sync Dry Run
 
-- Ejecutado: 2026-04-30T03:25:47.279401+00:00
+- Ejecutado: 2026-04-30T03:28:58.706092+00:00
 - Total registros: 231
 - Clientes cerrados: 24
 
