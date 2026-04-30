@@ -4,9 +4,14 @@ from openai import OpenAI, OpenAIError
 
 from .config import Settings
 from .search import VaultSearch
+from .structured_answers import answer_structured_question
 
 
 def answer_question(question: str, settings: Settings) -> str:
+    structured = answer_structured_question(question, settings)
+    if structured:
+        return structured
+
     search = VaultSearch(settings.wiki_dir)
     context = search.context(question)
     if not context:
