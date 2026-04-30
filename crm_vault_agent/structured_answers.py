@@ -34,6 +34,8 @@ def answer_structured_question(question: str, settings: Settings) -> str | None:
 
     if is_help_question(text):
         return help_text()
+    if "llamada" in text and requested_date and "resumen" in text:
+        return call_summary_in_period(records, (requested_date, requested_date))
     if "llamada" in text and period and "resumen" in text:
         return call_summary_in_period(records, period)
     if "llamada" in text and requested_date:
@@ -86,13 +88,21 @@ def extract_requested_date(text: str) -> str | None:
         return f"{int(year):04d}-{int(month):02d}-{int(day):02d}"
 
     date_match = re.search(r"\b(\d{1,2})\s+de\s+([a-z]+)\s+(?:de|del)?\s*(20\d{2})\b", text)
-    if not date_match:
+    if date_match:
+        day, month_name, year = date_match.groups()
+        month = month_number(month_name)
+        if not month:
+            return None
+        return f"{int(year):04d}-{month:02d}-{int(day):02d}"
+
+    partial_match = re.search(r"\b(\d{1,2})\s+de\s+([a-z]+)\b", text)
+    if not partial_match:
         return None
-    day, month_name, year = date_match.groups()
+    day, month_name = partial_match.groups()
     month = month_number(month_name)
     if not month:
         return None
-    return f"{int(year):04d}-{month:02d}-{int(day):02d}"
+    return f"{datetime.now(BOGOTA).year:04d}-{month:02d}-{int(day):02d}"
 
 
 def extract_period(text: str) -> tuple[str, str] | None:
