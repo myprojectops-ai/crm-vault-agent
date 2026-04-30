@@ -101,6 +101,16 @@ def extract_period(text: str) -> tuple[str, str] | None:
         month = month_number(month_name)
         if month:
             return month_range(int(year), month)
+
+    month_only_match = re.search(
+        r"\b(?:en|de|del|mes de)?\s*(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|setiembre|octubre|noviembre|diciembre)\b",
+        text,
+    )
+    if month_only_match:
+        month = month_number(month_only_match.group(1))
+        if month:
+            now = datetime.now(BOGOTA).date()
+            return month_range(now.year, month)
     return None
 
 
