@@ -43,6 +43,38 @@ def top_cash_clients(records: list[CRMRecord], limit: int = 5) -> str:
     return format_numeric_rows(rows, "Cash collected", "clientes por Cash collected", limit)
 
 
+def paid_clients(records: list[CRMRecord], period: tuple[str, str] | None = None, limit: int = 20) -> str:
+    rows = [record for record in records if record.status == "Cliente Cerrado" and record.cash > 0]
+    if period:
+        start, end = period
+        rows = [
+            record
+            for record in rows
+            if record.call_date and start <= parse_date(record.call_date).date().isoformat() <= end
+        ]
+    rows.sort(key=lambda record: record.call_date or "", reverse=True)
+    total = sum(record.cash for record in rows)
+
+    if period:
+        title = f"Clientes con pago registrado entre {period[0]} y {period[1]}: {len(rows)} - Total: {format_money(total)}"
+    else:
+        title = f"Clientes con pago registrado: {len(rows)} - Total: {format_money(total)}"
+
+    if not rows:
+        return title + "\nNo encontre clientes cerrados con Cash collected en ese periodo."
+
+    lines = [title]
+    for idx, record in enumerate(rows[:limit], start=1):
+        lines.append(
+            f"{idx}. {record.name} - {format_money(record.cash)} - "
+            f"{display(record.call_date)} - {display(record.result, 'sin resultado')}"
+        )
+    if len(rows) > limit:
+        lines.append(f"... y {len(rows) - limit} mas.")
+    lines.append("Nota: el periodo se calcula usando `Fecha llamada`; no hay una fecha separada de pago en el snapshot.")
+    return "\n".join(lines)
+
+
 def top_qualified(records: list[CRMRecord], limit: int = 10) -> str:
     rows = [record for record in records if record.qualified > 0]
     rows.sort(key=lambda record: record.qualified, reverse=True)

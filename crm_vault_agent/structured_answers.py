@@ -15,6 +15,7 @@ from .crm_tools import (
     list_by_result,
     list_by_status,
     month_range,
+    paid_clients,
     prospect_detail,
     top_cash_clients,
     top_qualified,
@@ -36,6 +37,8 @@ def answer_structured_question(question: str, settings: Settings) -> str | None:
         return calls_in_period(records, period)
     if "llamada" in text and any(word in text for word in ["ultima", "ultimas", "reciente", "recientes"]):
         return latest_calls(records, limit)
+    if wants_paid_clients_in_period(text) and period:
+        return paid_clients(records, period=period, limit=max(limit, 20))
     if wants_cash_ranking(text):
         return top_cash_clients(records, limit)
     if wants_qualified_ranking(text):
@@ -122,6 +125,12 @@ def month_number(month_name: str) -> int | None:
 def wants_cash_ranking(text: str) -> bool:
     return any(word in text for word in ["dinero", "pago", "pagado", "cash", "collected"]) and any(
         word in text for word in ["cliente", "clientes", "mas", "top", "mayor"]
+    )
+
+
+def wants_paid_clients_in_period(text: str) -> bool:
+    return any(word in text for word in ["pagado", "pago", "pagaron", "dinero", "cash"]) and any(
+        word in text for word in ["este mes", "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
     )
 
 
