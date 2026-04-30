@@ -34,10 +34,10 @@ def answer_structured_question(question: str, settings: Settings) -> str | None:
 
     if is_help_question(text):
         return help_text()
-    if "llamada" in text and requested_date:
-        return calls_on_date(records, requested_date)
     if "llamada" in text and period and "resumen" in text:
         return call_summary_in_period(records, period)
+    if "llamada" in text and requested_date:
+        return calls_on_date(records, requested_date)
     if "llamada" in text and period:
         return calls_in_period(records, period)
     if "llamada" in text and any(word in text for word in ["ultima", "ultimas", "reciente", "recientes"]):
@@ -97,6 +97,9 @@ def extract_requested_date(text: str) -> str | None:
 
 def extract_period(text: str) -> tuple[str, str] | None:
     today = datetime.now(BOGOTA).date()
+    explicit_range = extract_day_range(text)
+    if explicit_range:
+        return explicit_range
     if "semana pasada" in text:
         start_this_week = today - timedelta(days=today.weekday())
         start = start_this_week - timedelta(days=7)
@@ -133,6 +136,24 @@ def extract_period(text: str) -> tuple[str, str] | None:
             now = datetime.now(BOGOTA).date()
             return month_range(now.year, month)
     return None
+
+
+def extract_day_range(text: str) -> tuple[str, str] | None:
+    range_match = re.search(
+        r"\b(?:del|de)?\s*(\d{1,2})\s+(?:al|a)\s+(\d{1,2})\s+de\s+([a-z]+)(?:\s+(?:de|del)?\s*(20\d{2}))?\b",
+        text,
+    )
+    if not range_match:
+        return None
+    start_day, end_day, month_name, year = range_match.groups()
+    month = month_number(month_name)
+    if not month:
+        return None
+    year_number = int(year) if year else datetime.now(BOGOTA).year
+    return (
+        f"{year_number:04d}-{month:02d}-{int(start_day):02d}",
+        f"{year_number:04d}-{month:02d}-{int(end_day):02d}",
+    )
 
 
 def month_number(month_name: str) -> int | None:
