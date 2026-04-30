@@ -37,6 +37,44 @@ def calls_in_period(records: list[CRMRecord], period: tuple[str, str]) -> str:
     return format_call_rows(rows, f"Llamadas registradas entre {start} y {end}: {len(rows)}")
 
 
+def call_summary_in_period(records: list[CRMRecord], period: tuple[str, str]) -> str:
+    start, end = period
+    rows = []
+    for record in records:
+        if not record.effective_call_date:
+            continue
+        day = parse_date(record.effective_call_date).date().isoformat()
+        if start <= day <= end:
+            rows.append(record)
+
+    rows.sort(key=lambda record: parse_date(record.effective_call_date), reverse=True)
+    if not rows:
+        return f"No encontre llamadas registradas entre {start} y {end}."
+
+    by_result = count_by(rows, lambda record: record.result or "Sin resultado")
+    closed = [record for record in rows if record.status == "Cliente Cerrado"]
+    total_cash = sum(record.cash for record in closed)
+
+    lines = [
+        f"Resumen de llamadas entre {start} y {end}:",
+        f"- Total llamadas: {len(rows)}",
+        f"- Clientes cerrados en ese grupo: {len(closed)}",
+        f"- Cash collected de cerrados en ese grupo: {format_money(total_cash)}",
+        "",
+        "Por resultado:",
+    ]
+    lines.extend(f"- {key}: {value}" for key, value in by_result)
+    lines.extend(["", "Ultimas llamadas del periodo:"])
+    for idx, record in enumerate(rows[:10], start=1):
+        lines.append(
+            f"{idx}. {format_date(record.effective_call_date)} - {record.name} - "
+            f"{display(record.result, 'sin resultado')} - {display(record.status, 'sin estado')}"
+        )
+    if len(rows) > 10:
+        lines.append(f"... y {len(rows) - 10} mas.")
+    return "\n".join(lines)
+
+
 def top_cash_clients(records: list[CRMRecord], limit: int = 5) -> str:
     rows = [record for record in records if record.status == "Cliente Cerrado" and record.cash > 0]
     rows.sort(key=lambda record: record.cash, reverse=True)

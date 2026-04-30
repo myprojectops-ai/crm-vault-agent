@@ -2,11 +2,13 @@ from __future__ import annotations
 
 import re
 from datetime import datetime
+from datetime import timedelta
 
 from .config import Settings
 from .crm_data import BOGOTA, load_records, normalize
 from .crm_tools import (
     calls_in_period,
+    call_summary_in_period,
     calls_on_date,
     closed_clients,
     counts_summary,
@@ -34,6 +36,8 @@ def answer_structured_question(question: str, settings: Settings) -> str | None:
         return help_text()
     if "llamada" in text and requested_date:
         return calls_on_date(records, requested_date)
+    if "llamada" in text and period and "resumen" in text:
+        return call_summary_in_period(records, period)
     if "llamada" in text and period:
         return calls_in_period(records, period)
     if "llamada" in text and any(word in text for word in ["ultima", "ultimas", "reciente", "recientes"]):
@@ -92,9 +96,23 @@ def extract_requested_date(text: str) -> str | None:
 
 
 def extract_period(text: str) -> tuple[str, str] | None:
+    today = datetime.now(BOGOTA).date()
+    if "semana pasada" in text:
+        start_this_week = today - timedelta(days=today.weekday())
+        start = start_this_week - timedelta(days=7)
+        end = start_this_week - timedelta(days=1)
+        return start.isoformat(), end.isoformat()
+    if "esta semana" in text or "semana actual" in text:
+        start = today - timedelta(days=today.weekday())
+        end = today
+        return start.isoformat(), end.isoformat()
+    if "ayer" in text:
+        day = today - timedelta(days=1)
+        return day.isoformat(), day.isoformat()
+    if "hoy" in text:
+        return today.isoformat(), today.isoformat()
     if "este mes" in text:
-        now = datetime.now(BOGOTA).date()
-        return month_range(now.year, now.month)
+        return month_range(today.year, today.month)
     month_match = re.search(
         r"\b(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|setiembre|octubre|noviembre|diciembre)\s+(?:de|del)?\s*(20\d{2})\b",
         text,
