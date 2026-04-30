@@ -5,7 +5,7 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 - **Total registros**: 231
 - **Cliente Cerrado**: 24
 - **Prospecto** (estado explicito): 19
-- **Sin estado asignado**: 188
+- **Sin estado asignado**: 187
 
 ## Listado completo (orden alfabetico)
 
@@ -150,7 +150,7 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 | [[jose-miguel-del-castillo-349c40c6|Jose Miguel del Castillo]] | - | No contesto | - | - | - |
 | [[jota|Jota]] | - | Consiguiendo dinero | - | 2026-04-15 | - |
 | [[juan-amaya|Juan Amaya]] | - | - | - | - | - |
-| [[juan-carlos-angel|Juan Carlos Angel]] | - | - | - | 2026-04-28 | - |
+| [[juan-carlos-angel|Juan Carlos Angel]] | Seguimiento | - | - | 2026-04-28 | - |
 | [[juan-carlos-chica|Juan Carlos Chica]] | - | Agendar | - | - | - |
 | [[juan-carlos-figueroa|Juan Carlos Figueroa]] | Prospecto | Consiguiendo dinero | - | 2026-03-06 | $0 |
 | [[juan-carlos-gallego|Juan Carlos Gallego]] | - | Reagendada | Media | 2026-03-30 | - |
@@ -294,7 +294,7 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 - [[thiago-velez|Thiago Velez]] · - · llamada -
 - [[yesica-ortegon|Yesica Ortegon]] · Seguimiento · llamada 2026-04-13
 
-### Sin estado asignado (188)
+### Sin estado asignado (187)
 
 - [[abel-loaiza|Abel Loaiza]] · Consiguiendo dinero · llamada 2026-04-01
 - [[adrian-hernandez|Adrian Hernandez]] · - · llamada -
@@ -411,7 +411,6 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 - [[jose-miguel-del-castillo-349c40c6|Jose Miguel del Castillo]] · No contesto · llamada -
 - [[jota|Jota]] · Consiguiendo dinero · llamada 2026-04-15
 - [[juan-amaya|Juan Amaya]] · - · llamada -
-- [[juan-carlos-angel|Juan Carlos Angel]] · - · llamada 2026-04-28
 - [[juan-carlos-chica|Juan Carlos Chica]] · Agendar · llamada -
 - [[juan-carlos-gallego|Juan Carlos Gallego]] · Reagendada · llamada 2026-03-30
 - [[juan-carlos-velez|Juan Carlos Velez]] · Descartado · llamada 2026-03-25

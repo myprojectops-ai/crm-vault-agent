@@ -4,7 +4,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Car
 
 ## Key Takeaways
 
-- **Estado**: - · **Prioridad follow-up**: - · **Resultado llamada**: -
+- **Estado**: Seguimiento · **Prioridad follow-up**: - · **Resultado llamada**: -
 - **Siguiente accion**: -
 - **Cash collected**: - · **Calificado**: -
 
@@ -20,7 +20,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Car
 
 | Campo | Valor |
 |---|---|
-| Estado Cliente | - |
+| Estado Cliente | Seguimiento |
 | Resultado llamada | - |
 | Prioridad follow-up | - |
 | Siguiente accion | - |
