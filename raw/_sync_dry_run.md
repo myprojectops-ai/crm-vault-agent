@@ -1,6 +1,6 @@
 # CRM Sync Dry Run
 
-- Ejecutado: 2026-04-30T20:17:59.393921+00:00
+- Ejecutado: 2026-04-30T20:39:53.275365+00:00
 - Total registros: 231
 - Clientes cerrados: 24
 
@@ -13,9 +13,9 @@
 
 ## Resultado llamada
 
-- Sin resultado: 63
+- Sin resultado: 62
 - Consiguiendo dinero: 33
-- Seguimiento: 26
+- Seguimiento: 27
 - Agendar: 18
 - Reagendada: 16
 - No contesto: 16

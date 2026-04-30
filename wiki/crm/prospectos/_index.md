@@ -150,7 +150,7 @@ Un articulo por registro de la base [[crm-acelera]]. Incluye prospectos y client
 | [[jose-miguel-del-castillo-349c40c6|Jose Miguel del Castillo]] | - | No contesto | - | - | - |
 | [[jota|Jota]] | - | Consiguiendo dinero | - | 2026-04-15 | - |
 | [[juan-amaya|Juan Amaya]] | - | - | - | - | - |
-| [[juan-carlos-angel|Juan Carlos Angel]] | Seguimiento | - | - | 2026-04-28 | - |
+| [[juan-carlos-angel|Juan Carlos Angel]] | Seguimiento | Seguimiento | - | 2026-04-28 | - |
 | [[juan-carlos-chica|Juan Carlos Chica]] | - | Agendar | - | - | - |
 | [[juan-carlos-figueroa|Juan Carlos Figueroa]] | Prospecto | Consiguiendo dinero | - | 2026-03-06 | $0 |
 | [[juan-carlos-gallego|Juan Carlos Gallego]] | - | Reagendada | Media | 2026-03-30 | - |
