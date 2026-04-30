@@ -17,6 +17,11 @@ def answer_structured_question(question: str, settings: Settings) -> str | None:
     if "llamada" in normalized and any(word in normalized for word in ["ultima", "ultimas", "reciente", "recientes"]):
         limit = extract_limit(normalized, default=5)
         return latest_calls(settings, limit)
+    if any(word in normalized for word in ["dinero", "pago", "pagado", "cash", "collected"]) and any(
+        word in normalized for word in ["cliente", "clientes", "mas", "top", "mayor"]
+    ):
+        limit = extract_limit(normalized, default=5)
+        return top_paid_clients(settings, limit)
     return None
 
 
@@ -46,6 +51,33 @@ def latest_calls(settings: Settings, limit: int = 5) -> str:
         if recording:
             line += f"\n   Grabacion: {recording}"
         lines.append(line)
+    return "\n".join(lines)
+
+
+def top_paid_clients(settings: Settings, limit: int = 5) -> str:
+    records = load_latest_records(settings)
+    rows = [
+        record
+        for record in records
+        if record.get("Estado Cliente") == "Cliente Cerrado"
+        and isinstance(record.get("Cash collected"), (int, float))
+        and record.get("Cash collected")
+    ]
+    rows.sort(key=lambda record: record.get("Cash collected") or 0, reverse=True)
+
+    if not rows:
+        return "No encontre clientes cerrados con `Cash collected` registrado."
+
+    lines = [f"Top {min(limit, len(rows))} clientes por Cash collected:"]
+    for idx, record in enumerate(rows[:limit], start=1):
+        name = record.get("Nombre Prospecto") or "(sin nombre)"
+        cash = record.get("Cash collected") or 0
+        date_value = record.get("Fecha llamada") or "-"
+        result = record.get("Resultado llamada") or "sin resultado"
+        lines.append(f"{idx}. {name} - {format_money(cash)} - {date_value} - {result}")
+
+    if len(rows) < limit:
+        lines.append(f"Solo hay {len(rows)} clientes cerrados con Cash collected numerico.")
     return "\n".join(lines)
 
 
@@ -83,6 +115,10 @@ def format_date(value: str | None) -> str:
     if "T" in str(value):
         return parsed.strftime("%Y-%m-%d %H:%M")
     return parsed.strftime("%Y-%m-%d")
+
+
+def format_money(value: int | float) -> str:
+    return f"${value:,.0f}"
 
 
 def normalize(text: str) -> str:
