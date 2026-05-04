@@ -1,6 +1,6 @@
 # Luz Dary
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luz-Dary-328c40c66f0980518119d7c888d61b48
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luz-Dary-328c40c66f0980518119d7c888d61b48
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luz-Dary
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Luz-Dary-328c40c66f0980518119d7c888d61b48
+- Pagina Notion: https://www.notion.so/Luz-Dary-328c40c66f0980518119d7c888d61b48
 
 ## Llamadas registradas
 

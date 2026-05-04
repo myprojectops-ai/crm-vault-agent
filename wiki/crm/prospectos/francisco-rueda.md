@@ -1,6 +1,6 @@
 # Francisco Rueda
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Francisco-Rueda-333c40c66f09803f9727edac8f556078
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Francisco-Rueda-333c40c66f09803f9727edac8f556078
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Francisc
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Francisco-Rueda-333c40c66f09803f9727edac8f556078
+- Pagina Notion: https://www.notion.so/Francisco-Rueda-333c40c66f09803f9727edac8f556078
 
 ## Llamadas registradas
 

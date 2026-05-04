@@ -1,6 +1,6 @@
 # Luis Miguel Alvarez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luis-Miguel-Alvarez-333c40c66f0980b2ad84f9bce1eec07c
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Miguel-Alvarez-333c40c66f0980b2ad84f9bce1eec07c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luis-Mig
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Luis-Miguel-Alvarez-333c40c66f0980b2ad84f9bce1eec07c
+- Pagina Notion: https://www.notion.so/Luis-Miguel-Alvarez-333c40c66f0980b2ad84f9bce1eec07c
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Mariano Garcia Aragon
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mariano-Garcia-Aragon-350c40c66f0981e8bbafe98cbf35e799
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mariano-Garcia-Aragon-350c40c66f0981e8bbafe98cbf35e799
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mariano-
 
 - Grabacion: https://fathom.video/calls/646624889
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Mariano-Garcia-Aragon-350c40c66f0981e8bbafe98cbf35e799
+- Pagina Notion: https://www.notion.so/Mariano-Garcia-Aragon-350c40c66f0981e8bbafe98cbf35e799
 
 ## Llamadas registradas
 

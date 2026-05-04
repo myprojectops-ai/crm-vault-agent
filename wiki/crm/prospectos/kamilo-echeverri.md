@@ -1,6 +1,6 @@
 # KAMILO ECHEVERRI
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/KAMILO-ECHEVERRI-345c40c66f098151af42cf3473437ae5
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/KAMILO-ECHEVERRI-345c40c66f098151af42cf3473437ae5
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/KAMILO-E
 
 - Grabacion: https://fathom.video/calls/636508886
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/KAMILO-ECHEVERRI-345c40c66f098151af42cf3473437ae5
+- Pagina Notion: https://www.notion.so/KAMILO-ECHEVERRI-345c40c66f098151af42cf3473437ae5
 
 ## Llamadas registradas
 

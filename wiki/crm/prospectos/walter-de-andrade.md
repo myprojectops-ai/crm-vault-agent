@@ -1,6 +1,6 @@
 # Walter de Andrade
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Walter-de-Andrade-328c40c66f098070b1d8ff76c396c12f
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Walter-de-Andrade-328c40c66f098070b1d8ff76c396c12f
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Walter-d
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Walter-de-Andrade-328c40c66f098070b1d8ff76c396c12f
+- Pagina Notion: https://www.notion.so/Walter-de-Andrade-328c40c66f098070b1d8ff76c396c12f
 
 ## Llamadas registradas
 

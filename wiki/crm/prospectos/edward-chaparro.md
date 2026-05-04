@@ -1,6 +1,6 @@
 # Edward Chaparro
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Edward-Chaparro-344c40c66f0980e0bc70e4561d7372e0
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Edward-Chaparro-344c40c66f0980e0bc70e4561d7372e0
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Edward-C
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Edward-Chaparro-344c40c66f0980e0bc70e4561d7372e0
+- Pagina Notion: https://www.notion.so/Edward-Chaparro-344c40c66f0980e0bc70e4561d7372e0
 
 ## Llamadas registradas
 

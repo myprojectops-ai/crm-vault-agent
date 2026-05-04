@@ -1,6 +1,6 @@
 # Marcela Escobar
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Marcela-Escobar-349c40c66f0980959506e8572f9bf43a
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Marcela-Escobar-349c40c66f0980959506e8572f9bf43a
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/GSrexWkHtznQcbhFWBRzjh64_k3EED5C
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Marcela-Escobar-349c40c66f0980959506e8572f9bf43a
+- Pagina Notion: https://www.notion.so/Marcela-Escobar-349c40c66f0980959506e8572f9bf43a
 
 ## Llamadas registradas
 

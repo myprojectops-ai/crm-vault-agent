@@ -1,6 +1,6 @@
 # Elias Fadul Meyer
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Elias-Fadul-Meyer-349c40c66f0980629712c55f7059e21c
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Elias-Fadul-Meyer-349c40c66f0980629712c55f7059e21c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Elias-Fa
 
 - Grabacion: https://fathom.video/calls/647453128
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Elias-Fadul-Meyer-349c40c66f0980629712c55f7059e21c
+- Pagina Notion: https://www.notion.so/Elias-Fadul-Meyer-349c40c66f0980629712c55f7059e21c
 
 ## Llamadas registradas
 

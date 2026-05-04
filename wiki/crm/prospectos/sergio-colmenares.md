@@ -1,6 +1,6 @@
 # Sergio Colmenares
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sergio-Colmenares-34cc40c66f09801c93e3e038a42cd929
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Sergio-Colmenares-34cc40c66f09801c93e3e038a42cd929
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/siZpy9MXMhyLzNyCLJcyfJexRHkcs_fP
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Sergio-Colmenares-34cc40c66f09801c93e3e038a42cd929
+- Pagina Notion: https://www.notion.so/Sergio-Colmenares-34cc40c66f09801c93e3e038a42cd929
 
 ## Llamadas registradas
 

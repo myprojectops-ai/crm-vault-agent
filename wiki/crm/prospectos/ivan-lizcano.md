@@ -1,6 +1,6 @@
 # Ivan Lizcano
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ivan-Lizcano-b369315a9069472f91c3827822e2671e
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Ivan-Lizcano-b369315a9069472f91c3827822e2671e
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Ivan-Liz
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Ivan-Lizcano-b369315a9069472f91c3827822e2671e
+- Pagina Notion: https://www.notion.so/Ivan-Lizcano-b369315a9069472f91c3827822e2671e
 
 ## Llamadas registradas
 

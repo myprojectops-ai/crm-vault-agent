@@ -1,6 +1,6 @@
 # Enrique Chirinos
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Enrique-Chirinos-345c40c66f098163be7ac39f2ff74c27
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Enrique-Chirinos-345c40c66f098163be7ac39f2ff74c27
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Enrique-
 
 - Grabacion: https://fathom.video/calls/645592141
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Enrique-Chirinos-345c40c66f098163be7ac39f2ff74c27
+- Pagina Notion: https://www.notion.so/Enrique-Chirinos-345c40c66f098163be7ac39f2ff74c27
 
 ## Llamadas registradas
 

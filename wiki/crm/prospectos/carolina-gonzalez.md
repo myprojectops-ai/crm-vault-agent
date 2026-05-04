@@ -1,6 +1,6 @@
 # Carolina Gonzalez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carolina-Gonzalez-341c40c66f098094842fce2843a06d51
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carolina-Gonzalez-341c40c66f098094842fce2843a06d51
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carolina
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Carolina-Gonzalez-341c40c66f098094842fce2843a06d51
+- Pagina Notion: https://www.notion.so/Carolina-Gonzalez-341c40c66f098094842fce2843a06d51
 
 ## Llamadas registradas
 

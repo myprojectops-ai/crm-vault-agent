@@ -1,6 +1,6 @@
 # Maria Catalina Ramirez Ochoa
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maria-Catalina-Ramirez-Ochoa-343c40c66f098147aa4ef4037da9ff16
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Maria-Catalina-Ramirez-Ochoa-343c40c66f098147aa4ef4037da9ff16
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maria-Ca
 
 - Grabacion: https://fathom.video/calls/635773952
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Maria-Catalina-Ramirez-Ochoa-343c40c66f098147aa4ef4037da9ff16
+- Pagina Notion: https://www.notion.so/Maria-Catalina-Ramirez-Ochoa-343c40c66f098147aa4ef4037da9ff16
 
 ## Llamadas registradas
 

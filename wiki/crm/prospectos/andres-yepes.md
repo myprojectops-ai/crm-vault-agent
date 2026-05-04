@@ -1,6 +1,6 @@
 # Andres Yepes
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Yepes-849b000e176f4150ab19e18506d8a465
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Yepes-849b000e176f4150ab19e18506d8a465
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Y
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andres-Yepes-849b000e176f4150ab19e18506d8a465
+- Pagina Notion: https://www.notion.so/Andres-Yepes-849b000e176f4150ab19e18506d8a465
 
 ## Llamadas registradas
 

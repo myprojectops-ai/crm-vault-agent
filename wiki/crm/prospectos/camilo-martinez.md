@@ -1,6 +1,6 @@
 # Camilo Martinez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Camilo-Martinez-33ac40c66f098048a9e4f830beee1412
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Camilo-Martinez-33ac40c66f098048a9e4f830beee1412
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Camilo-M
 
 - Grabacion: https://fathom.video/calls/645479705
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Camilo-Martinez-33ac40c66f098048a9e4f830beee1412
+- Pagina Notion: https://www.notion.so/Camilo-Martinez-33ac40c66f098048a9e4f830beee1412
 
 ## Llamadas registradas
 

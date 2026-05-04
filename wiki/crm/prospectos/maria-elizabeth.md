@@ -1,6 +1,6 @@
 # Maria Elizabeth
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maria-Elizabeth-335c40c66f0980fca5aaf782c2292172
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Maria-Elizabeth-335c40c66f0980fca5aaf782c2292172
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maria-El
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Maria-Elizabeth-335c40c66f0980fca5aaf782c2292172
+- Pagina Notion: https://www.notion.so/Maria-Elizabeth-335c40c66f0980fca5aaf782c2292172
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Felipe Benavides
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Felipe-Benavides-34fc40c66f0980c7a52ac23e84b36329
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Felipe-Benavides-34fc40c66f0980c7a52ac23e84b36329
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Felipe-B
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Felipe-Benavides-34fc40c66f0980c7a52ac23e84b36329
+- Pagina Notion: https://www.notion.so/Felipe-Benavides-34fc40c66f0980c7a52ac23e84b36329
 
 ## Llamadas registradas
 

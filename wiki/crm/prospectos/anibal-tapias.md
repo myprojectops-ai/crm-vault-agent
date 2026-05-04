@@ -1,6 +1,6 @@
 # Anibal Tapias
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Anibal-Tapias-34fc40c66f098010b3ccfbf229e6dc97
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Anibal-Tapias-34fc40c66f098010b3ccfbf229e6dc97
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Anibal-T
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Anibal-Tapias-34fc40c66f098010b3ccfbf229e6dc97
+- Pagina Notion: https://www.notion.so/Anibal-Tapias-34fc40c66f098010b3ccfbf229e6dc97
 
 ## Llamadas registradas
 

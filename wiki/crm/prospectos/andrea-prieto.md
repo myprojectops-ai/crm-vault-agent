@@ -1,6 +1,6 @@
 # Andrea Prieto
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andrea-Prieto-335c40c66f09801c836bfc63cf599994
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andrea-Prieto-335c40c66f09801c836bfc63cf599994
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andrea-P
 
 - Grabacion: https://fathom.video/calls/631717882
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andrea-Prieto-335c40c66f09801c836bfc63cf599994
+- Pagina Notion: https://www.notion.so/Andrea-Prieto-335c40c66f09801c836bfc63cf599994
 
 ## Llamadas registradas
 

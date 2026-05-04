@@ -1,6 +1,6 @@
 # Yesica Ortegon
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Yesica-Ortegon-337c40c66f0980dc8347c47556f06e1d
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Yesica-Ortegon-337c40c66f0980dc8347c47556f06e1d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Yesica-O
 
 - Grabacion: https://fathom.video/calls/633368335
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Yesica-Ortegon-337c40c66f0980dc8347c47556f06e1d
+- Pagina Notion: https://www.notion.so/Yesica-Ortegon-337c40c66f0980dc8347c47556f06e1d
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Juan Guillermo Jaramillo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Guillermo-Jaramillo-349c40c66f0980f7aa8cc25292e0aab2
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Guillermo-Jaramillo-349c40c66f0980f7aa8cc25292e0aab2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Gui
 
 - Grabacion: https://fathom.video/calls/646202115
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Juan-Guillermo-Jaramillo-349c40c66f0980f7aa8cc25292e0aab2
+- Pagina Notion: https://www.notion.so/Juan-Guillermo-Jaramillo-349c40c66f0980f7aa8cc25292e0aab2
 
 ## Llamadas registradas
 

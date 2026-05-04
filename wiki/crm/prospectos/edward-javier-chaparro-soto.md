@@ -1,6 +1,6 @@
 # Edward Javier Chaparro Soto
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Edward-Javier-Chaparro-Soto-34ac40c66f09819db657f3709e50ee34
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Edward-Javier-Chaparro-Soto-34ac40c66f09819db657f3709e50ee34
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Edward-J
 
 - Grabacion: https://fathom.video/calls/643990947
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Edward-Javier-Chaparro-Soto-34ac40c66f09819db657f3709e50ee34
+- Pagina Notion: https://www.notion.so/Edward-Javier-Chaparro-Soto-34ac40c66f09819db657f3709e50ee34
 
 ## Llamadas registradas
 

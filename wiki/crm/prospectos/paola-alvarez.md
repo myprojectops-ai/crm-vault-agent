@@ -1,6 +1,6 @@
 # Paola Alvarez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paola-Alvarez-32ac40c66f09800590cbd695d18f2210
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Paola-Alvarez-32ac40c66f09800590cbd695d18f2210
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paola-Al
 
 - Grabacion: https://fathom.video/calls/641873427
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Paola-Alvarez-32ac40c66f09800590cbd695d18f2210
+- Pagina Notion: https://www.notion.so/Paola-Alvarez-32ac40c66f09800590cbd695d18f2210
 
 ## Llamadas registradas
 

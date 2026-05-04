@@ -1,6 +1,6 @@
 # Andrés Osorio
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andr-s-Osorio-34fc40c66f098082aa7bc9dc6e511607
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andr-s-Osorio-34fc40c66f098082aa7bc9dc6e511607
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andr-s-O
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andr-s-Osorio-34fc40c66f098082aa7bc9dc6e511607
+- Pagina Notion: https://www.notion.so/Andr-s-Osorio-34fc40c66f098082aa7bc9dc6e511607
 
 ## Llamadas registradas
 

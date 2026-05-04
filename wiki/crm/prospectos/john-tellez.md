@@ -1,6 +1,6 @@
 # John Tellez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/John-Tellez-333c40c66f09803b9129da523955a570
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/John-Tellez-333c40c66f09803b9129da523955a570
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/John-Tel
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/John-Tellez-333c40c66f09803b9129da523955a570
+- Pagina Notion: https://www.notion.so/John-Tellez-333c40c66f09803b9129da523955a570
 
 ## Llamadas registradas
 

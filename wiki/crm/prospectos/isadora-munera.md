@@ -1,6 +1,6 @@
 # Isadora Munera
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Isadora-Munera-33ac40c66f098081af3de0f1cad559c9
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Isadora-Munera-33ac40c66f098081af3de0f1cad559c9
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Isadora-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Isadora-Munera-33ac40c66f098081af3de0f1cad559c9
+- Pagina Notion: https://www.notion.so/Isadora-Munera-33ac40c66f098081af3de0f1cad559c9
 
 ## Llamadas registradas
 

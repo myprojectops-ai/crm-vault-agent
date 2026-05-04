@@ -1,6 +1,6 @@
 # Andres Giraldo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Giraldo-32bc40c66f0980d1b9f9e415ae3186bc
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Giraldo-32bc40c66f0980d1b9f9e415ae3186bc
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-G
 
 - Grabacion: https://fathom.video/calls/643802762
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andres-Giraldo-32bc40c66f0980d1b9f9e415ae3186bc
+- Pagina Notion: https://www.notion.so/Andres-Giraldo-32bc40c66f0980d1b9f9e415ae3186bc
 
 ## Llamadas registradas
 

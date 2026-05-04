@@ -1,6 +1,6 @@
 # Juan Carlos Chica
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Carlos-Chica-333c40c66f09805b9642e74c7408ca41
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Carlos-Chica-333c40c66f09805b9642e74c7408ca41
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Car
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Juan-Carlos-Chica-333c40c66f09805b9642e74c7408ca41
+- Pagina Notion: https://www.notion.so/Juan-Carlos-Chica-333c40c66f09805b9642e74c7408ca41
 
 ## Llamadas registradas
 

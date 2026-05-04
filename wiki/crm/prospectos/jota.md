@@ -1,6 +1,6 @@
 # Jota
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jota-341c40c66f0980289325ecad4ad1708a
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jota-341c40c66f0980289325ecad4ad1708a
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jota-341
 
 - Grabacion: https://fathom.video/calls/638875506
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Jota-341c40c66f0980289325ecad4ad1708a
+- Pagina Notion: https://www.notion.so/Jota-341c40c66f0980289325ecad4ad1708a
 
 ## Llamadas registradas
 

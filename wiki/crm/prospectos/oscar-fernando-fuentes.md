@@ -1,6 +1,6 @@
 # Oscar Fernando Fuentes
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Oscar-Fernando-Fuentes-333c40c66f098052b047f1fc3390e473
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Oscar-Fernando-Fuentes-333c40c66f098052b047f1fc3390e473
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Oscar-Fe
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Oscar-Fernando-Fuentes-333c40c66f098052b047f1fc3390e473
+- Pagina Notion: https://www.notion.so/Oscar-Fernando-Fuentes-333c40c66f098052b047f1fc3390e473
 
 ## Llamadas registradas
 

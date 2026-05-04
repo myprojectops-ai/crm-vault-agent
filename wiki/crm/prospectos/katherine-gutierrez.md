@@ -1,6 +1,6 @@
 # Katherine Gutierrez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Katherine-Gutierrez-34fc40c66f0980119c8def5aee381827
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Katherine-Gutierrez-34fc40c66f0980119c8def5aee381827
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Katherin
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Katherine-Gutierrez-34fc40c66f0980119c8def5aee381827
+- Pagina Notion: https://www.notion.so/Katherine-Gutierrez-34fc40c66f0980119c8def5aee381827
 
 ## Llamadas registradas
 

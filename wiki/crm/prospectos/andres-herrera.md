@@ -1,6 +1,6 @@
 # Andres Herrera
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Herrera-335c40c66f09802792dfe60cef74640c
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Herrera-335c40c66f09802792dfe60cef74640c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-H
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andres-Herrera-335c40c66f09802792dfe60cef74640c
+- Pagina Notion: https://www.notion.so/Andres-Herrera-335c40c66f09802792dfe60cef74640c
 
 ## Llamadas registradas
 

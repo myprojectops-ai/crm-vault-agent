@@ -1,6 +1,6 @@
 # Sergio Sanchez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sergio-Sanchez-333c40c66f0980b6aa02dcb3c7611c61
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Sergio-Sanchez-333c40c66f0980b6aa02dcb3c7611c61
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sergio-S
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Sergio-Sanchez-333c40c66f0980b6aa02dcb3c7611c61
+- Pagina Notion: https://www.notion.so/Sergio-Sanchez-333c40c66f0980b6aa02dcb3c7611c61
 
 ## Llamadas registradas
 

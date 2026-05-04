@@ -1,6 +1,6 @@
 # Luis Eduardo Alzate
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luis-Eduardo-Alzate-32cc40c66f0980d69262c11d52da0c5a
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luis-Eduardo-Alzate-32cc40c66f0980d69262c11d52da0c5a
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luis-Edu
 
 - Grabacion: https://fathom.video/calls/631717871
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Luis-Eduardo-Alzate-32cc40c66f0980d69262c11d52da0c5a
+- Pagina Notion: https://www.notion.so/Luis-Eduardo-Alzate-32cc40c66f0980d69262c11d52da0c5a
 
 ## Llamadas registradas
 

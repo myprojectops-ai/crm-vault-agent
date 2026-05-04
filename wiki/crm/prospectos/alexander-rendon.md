@@ -1,6 +1,6 @@
 # Alexander Rendon
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alexander-Rendon-328c40c66f0980409b8bfae61dbc8fc2
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alexander-Rendon-328c40c66f0980409b8bfae61dbc8fc2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alexande
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Alexander-Rendon-328c40c66f0980409b8bfae61dbc8fc2
+- Pagina Notion: https://www.notion.so/Alexander-Rendon-328c40c66f0980409b8bfae61dbc8fc2
 
 ## Llamadas registradas
 

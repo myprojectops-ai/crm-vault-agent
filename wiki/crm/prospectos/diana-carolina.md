@@ -1,6 +1,6 @@
 # Diana Carolina
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diana-Carolina-32dc40c66f0980e08fd1f6ed203a22ce
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diana-Carolina-32dc40c66f0980e08fd1f6ed203a22ce
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diana-Ca
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Diana-Carolina-32dc40c66f0980e08fd1f6ed203a22ce
+- Pagina Notion: https://www.notion.so/Diana-Carolina-32dc40c66f0980e08fd1f6ed203a22ce
 
 ## Llamadas registradas
 

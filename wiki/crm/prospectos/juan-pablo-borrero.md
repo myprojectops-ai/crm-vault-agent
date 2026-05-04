@@ -1,6 +1,6 @@
 # Juan Pablo Borrero
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Pablo-Borrero-33ac40c66f09805fbcbae781a64e87c2
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Pablo-Borrero-33ac40c66f09805fbcbae781a64e87c2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Pab
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Juan-Pablo-Borrero-33ac40c66f09805fbcbae781a64e87c2
+- Pagina Notion: https://www.notion.so/Juan-Pablo-Borrero-33ac40c66f09805fbcbae781a64e87c2
 
 ## Llamadas registradas
 

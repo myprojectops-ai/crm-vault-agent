@@ -1,6 +1,6 @@
 # Paula Arciniegas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paula-Arciniegas-326c40c66f098019a449fde33058d9fa
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Paula-Arciniegas-326c40c66f098019a449fde33058d9fa
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paula-Ar
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Paula-Arciniegas-326c40c66f098019a449fde33058d9fa
+- Pagina Notion: https://www.notion.so/Paula-Arciniegas-326c40c66f098019a449fde33058d9fa
 
 ## Llamadas registradas
 

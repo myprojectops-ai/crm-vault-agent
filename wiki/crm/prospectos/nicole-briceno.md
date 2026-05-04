@@ -1,6 +1,6 @@
 # Nicole Briceño
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Nicole-Brice-o-32dc40c66f09808db42be454d75b2b68
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Nicole-Brice-o-32dc40c66f09808db42be454d75b2b68
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Nicole-B
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Nicole-Brice-o-32dc40c66f09808db42be454d75b2b68
+- Pagina Notion: https://www.notion.so/Nicole-Brice-o-32dc40c66f09808db42be454d75b2b68
 
 ## Llamadas registradas
 

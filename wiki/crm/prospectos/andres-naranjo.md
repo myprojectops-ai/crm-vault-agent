@@ -1,6 +1,6 @@
 # Andres Naranjo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Naranjo-34fc40c66f098028b1c4d0e79ae8732a
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Naranjo-34fc40c66f098028b1c4d0e79ae8732a
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-N
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andres-Naranjo-34fc40c66f098028b1c4d0e79ae8732a
+- Pagina Notion: https://www.notion.so/Andres-Naranjo-34fc40c66f098028b1c4d0e79ae8732a
 
 ## Llamadas registradas
 

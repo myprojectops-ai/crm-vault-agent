@@ -1,6 +1,6 @@
 # Gabriel Campos
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Gabriel-Campos-34ec40c66f0980ee8d89e915d3d49fd4
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Gabriel-Campos-34ec40c66f0980ee8d89e915d3d49fd4
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Gabriel-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Gabriel-Campos-34ec40c66f0980ee8d89e915d3d49fd4
+- Pagina Notion: https://www.notion.so/Gabriel-Campos-34ec40c66f0980ee8d89e915d3d49fd4
 
 ## Llamadas registradas
 

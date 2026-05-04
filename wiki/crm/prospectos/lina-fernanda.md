@@ -1,6 +1,6 @@
 # Lina Fernanda
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Lina-Fernanda-0078f4a81a904500a75ce7ed44b0cacb
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Lina-Fernanda-0078f4a81a904500a75ce7ed44b0cacb
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Lina-Fer
 
 - Grabacion: https://fathom.video/share/wfCAA5inKDp9Z3M7eJPrMxF--86tyY9h
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Lina-Fernanda-0078f4a81a904500a75ce7ed44b0cacb
+- Pagina Notion: https://www.notion.so/Lina-Fernanda-0078f4a81a904500a75ce7ed44b0cacb
 
 ## Llamadas registradas
 

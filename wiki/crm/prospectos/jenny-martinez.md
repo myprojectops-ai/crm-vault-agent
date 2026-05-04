@@ -1,6 +1,6 @@
 # Jenny Martinez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jenny-Martinez-341c40c66f09808182d8f1ea2b3ee33a
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jenny-Martinez-341c40c66f09808182d8f1ea2b3ee33a
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jenny-Ma
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Jenny-Martinez-341c40c66f09808182d8f1ea2b3ee33a
+- Pagina Notion: https://www.notion.so/Jenny-Martinez-341c40c66f09808182d8f1ea2b3ee33a
 
 ## Llamadas registradas
 

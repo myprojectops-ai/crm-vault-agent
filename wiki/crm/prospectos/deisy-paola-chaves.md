@@ -1,6 +1,6 @@
 # Deisy Paola Chaves
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Deisy-Paola-Chaves-32fc40c66f09806180f4fd0e7a5f106e
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Deisy-Paola-Chaves-32fc40c66f09806180f4fd0e7a5f106e
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Deisy-Pa
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Deisy-Paola-Chaves-32fc40c66f09806180f4fd0e7a5f106e
+- Pagina Notion: https://www.notion.so/Deisy-Paola-Chaves-32fc40c66f09806180f4fd0e7a5f106e
 
 ## Llamadas registradas
 

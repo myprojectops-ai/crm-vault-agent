@@ -1,6 +1,6 @@
 # Andres Hasper
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-Hasper-32fc40c66f0980e49f09c2b421dfd3bb
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andres-Hasper-32fc40c66f0980e49f09c2b421dfd3bb
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andres-H
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andres-Hasper-32fc40c66f0980e49f09c2b421dfd3bb
+- Pagina Notion: https://www.notion.so/Andres-Hasper-32fc40c66f0980e49f09c2b421dfd3bb
 
 ## Llamadas registradas
 

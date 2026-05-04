@@ -1,6 +1,6 @@
 # Impromptu Google Meet Meeting
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Impromptu-Google-Meet-Meeting-338c40c66f0981b3a93cc7cc955c628c
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Impromptu-Google-Meet-Meeting-338c40c66f0981b3a93cc7cc955c628c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Imprompt
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Impromptu-Google-Meet-Meeting-338c40c66f0981b3a93cc7cc955c628c
+- Pagina Notion: https://www.notion.so/Impromptu-Google-Meet-Meeting-338c40c66f0981b3a93cc7cc955c628c
 
 ## Llamadas registradas
 

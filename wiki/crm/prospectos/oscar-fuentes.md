@@ -1,6 +1,6 @@
 # OSCAR FUENTES
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/OSCAR-FUENTES-33ec40c66f0981bf8866f97eda2fe574
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/OSCAR-FUENTES-33ec40c66f0981bf8866f97eda2fe574
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/OSCAR-FU
 
 - Grabacion: https://fathom.video/calls/647164039
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/OSCAR-FUENTES-33ec40c66f0981bf8866f97eda2fe574
+- Pagina Notion: https://www.notion.so/OSCAR-FUENTES-33ec40c66f0981bf8866f97eda2fe574
 
 ## Llamadas registradas
 

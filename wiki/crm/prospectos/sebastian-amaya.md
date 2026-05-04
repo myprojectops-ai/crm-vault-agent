@@ -1,6 +1,6 @@
 # Sebastian Amaya
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sebastian-Amaya-340c40c66f098013a4e2db81a4c92880
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Sebastian-Amaya-340c40c66f098013a4e2db81a4c92880
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sebastia
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Sebastian-Amaya-340c40c66f098013a4e2db81a4c92880
+- Pagina Notion: https://www.notion.so/Sebastian-Amaya-340c40c66f098013a4e2db81a4c92880
 
 ## Llamadas registradas
 

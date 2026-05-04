@@ -1,6 +1,6 @@
 # Danny Fabián Andrade
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Danny-Fabi-n-Andrade-34fc40c66f0980bb8451f3950d569ed6
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Danny-Fabi-n-Andrade-34fc40c66f0980bb8451f3950d569ed6
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Danny-Fa
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Danny-Fabi-n-Andrade-34fc40c66f0980bb8451f3950d569ed6
+- Pagina Notion: https://www.notion.so/Danny-Fabi-n-Andrade-34fc40c66f0980bb8451f3950d569ed6
 
 ## Llamadas registradas
 

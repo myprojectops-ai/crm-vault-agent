@@ -1,6 +1,6 @@
 # Oscar Farieta
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Oscar-Farieta-337c40c66f098084bbeff5da069014d9
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Oscar-Farieta-337c40c66f098084bbeff5da069014d9
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Oscar-Fa
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Oscar-Farieta-337c40c66f098084bbeff5da069014d9
+- Pagina Notion: https://www.notion.so/Oscar-Farieta-337c40c66f098084bbeff5da069014d9
 
 ## Llamadas registradas
 

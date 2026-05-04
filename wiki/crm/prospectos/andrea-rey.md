@@ -1,6 +1,6 @@
 # Andrea Rey
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andrea-Rey-349c40c66f0980bbb97fc2e0fe055a90
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andrea-Rey-349c40c66f0980bbb97fc2e0fe055a90
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/J6uXkDgy7FJKqLAy3_BTuPsQ9JcrA_rw
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andrea-Rey-349c40c66f0980bbb97fc2e0fe055a90
+- Pagina Notion: https://www.notion.so/Andrea-Rey-349c40c66f0980bbb97fc2e0fe055a90
 
 ## Llamadas registradas
 

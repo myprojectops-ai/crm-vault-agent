@@ -1,6 +1,6 @@
 # Carlos Andres Posada
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-Andres-Posada-351c40c66f0980768c2cc565b3050476
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Andres-Posada-351c40c66f0980768c2cc565b3050476
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-A
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Carlos-Andres-Posada-351c40c66f0980768c2cc565b3050476
+- Pagina Notion: https://www.notion.so/Carlos-Andres-Posada-351c40c66f0980768c2cc565b3050476
 
 ## Llamadas registradas
 

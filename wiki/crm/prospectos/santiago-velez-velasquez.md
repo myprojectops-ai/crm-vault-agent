@@ -1,6 +1,6 @@
 # Santiago Velez Velásquez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Santiago-Velez-Vel-squez-333c40c66f09806d99acd5df29008eb2
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Santiago-Velez-Vel-squez-333c40c66f09806d99acd5df29008eb2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Santiago
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Santiago-Velez-Vel-squez-333c40c66f09806d99acd5df29008eb2
+- Pagina Notion: https://www.notion.so/Santiago-Velez-Vel-squez-333c40c66f09806d99acd5df29008eb2
 
 ## Llamadas registradas
 

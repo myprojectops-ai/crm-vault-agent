@@ -1,6 +1,6 @@
 # Paula Fernanda Palacios
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paula-Fernanda-Palacios-d4a793df9c3842d69621e802dc01070b
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Paula-Fernanda-Palacios-d4a793df9c3842d69621e802dc01070b
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paula-Fe
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Paula-Fernanda-Palacios-d4a793df9c3842d69621e802dc01070b
+- Pagina Notion: https://www.notion.so/Paula-Fernanda-Palacios-d4a793df9c3842d69621e802dc01070b
 
 ## Llamadas registradas
 

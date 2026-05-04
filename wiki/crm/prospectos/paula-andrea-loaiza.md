@@ -1,6 +1,6 @@
 # Paula Andrea Loaiza
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paula-Andrea-Loaiza-349c40c66f09803ebdfddd0e470f4c2b
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Paula-Andrea-Loaiza-349c40c66f09803ebdfddd0e470f4c2b
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Paula-An
 
 - Grabacion: https://fathom.video/calls/648113759
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Paula-Andrea-Loaiza-349c40c66f09803ebdfddd0e470f4c2b
+- Pagina Notion: https://www.notion.so/Paula-Andrea-Loaiza-349c40c66f09803ebdfddd0e470f4c2b
 
 ## Llamadas registradas
 

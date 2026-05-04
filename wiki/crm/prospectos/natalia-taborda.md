@@ -1,6 +1,6 @@
 # Natalia Taborda
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Natalia-Taborda-33ac40c66f0980859b50f46a1c8f15f8
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Natalia-Taborda-33ac40c66f0980859b50f46a1c8f15f8
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Natalia-
 
 - Grabacion: https://fathom.video/calls/633368342
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Natalia-Taborda-33ac40c66f0980859b50f46a1c8f15f8
+- Pagina Notion: https://www.notion.so/Natalia-Taborda-33ac40c66f0980859b50f46a1c8f15f8
 
 ## Llamadas registradas
 

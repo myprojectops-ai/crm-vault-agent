@@ -1,6 +1,6 @@
 # Mariano G
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mariano-G-349c40c66f098054a001ff0fcc26ec76
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mariano-G-349c40c66f098054a001ff0fcc26ec76
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/wFeVQLMCgoxqxT8Pc_g2Wo4sd3WjXyZJ
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Mariano-G-349c40c66f098054a001ff0fcc26ec76
+- Pagina Notion: https://www.notion.so/Mariano-G-349c40c66f098054a001ff0fcc26ec76
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Juan Carlos Angel
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Carlos-Angel-34fc40c66f09807c95f8ebb4624b0fa5
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Carlos-Angel-34fc40c66f09807c95f8ebb4624b0fa5
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/a9zXHHH6Tu38h9sjsDzCP_Md2MTy4LqK
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Juan-Carlos-Angel-34fc40c66f09807c95f8ebb4624b0fa5
+- Pagina Notion: https://www.notion.so/Juan-Carlos-Angel-34fc40c66f09807c95f8ebb4624b0fa5
 
 ## Llamadas registradas
 

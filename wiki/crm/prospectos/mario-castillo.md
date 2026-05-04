@@ -1,6 +1,6 @@
 # Mario Castillo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mario-Castillo-341c40c66f09804eb9cacf08e8705e0b
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mario-Castillo-341c40c66f09804eb9cacf08e8705e0b
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mario-Ca
 
 - Grabacion: https://fathom.video/calls/644660524
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Mario-Castillo-341c40c66f09804eb9cacf08e8705e0b
+- Pagina Notion: https://www.notion.so/Mario-Castillo-341c40c66f09804eb9cacf08e8705e0b
 
 ## Llamadas registradas
 

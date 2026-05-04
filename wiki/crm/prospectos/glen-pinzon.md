@@ -1,6 +1,6 @@
 # Glen Pinzon
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Glen-Pinzon-327c40c66f0980b3a2dcdf07eec052e5
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Glen-Pinzon-327c40c66f0980b3a2dcdf07eec052e5
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Glen-Pin
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Glen-Pinzon-327c40c66f0980b3a2dcdf07eec052e5
+- Pagina Notion: https://www.notion.so/Glen-Pinzon-327c40c66f0980b3a2dcdf07eec052e5
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # George Sanchez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/George-Sanchez-32bc40c66f0980688e30ed58dea4975a
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/George-Sanchez-32bc40c66f0980688e30ed58dea4975a
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/George-S
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/George-Sanchez-32bc40c66f0980688e30ed58dea4975a
+- Pagina Notion: https://www.notion.so/George-Sanchez-32bc40c66f0980688e30ed58dea4975a
 
 ## Llamadas registradas
 

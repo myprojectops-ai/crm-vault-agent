@@ -1,6 +1,6 @@
 # Cesar Aponte
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Cesar-Aponte-345c40c66f098045bd7ac1849035ebd9
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Cesar-Aponte-345c40c66f098045bd7ac1849035ebd9
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Cesar-Ap
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Cesar-Aponte-345c40c66f098045bd7ac1849035ebd9
+- Pagina Notion: https://www.notion.so/Cesar-Aponte-345c40c66f098045bd7ac1849035ebd9
 
 ## Llamadas registradas
 

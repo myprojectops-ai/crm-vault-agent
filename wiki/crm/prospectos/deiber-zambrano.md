@@ -1,6 +1,6 @@
 # Deiber Zambrano
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Deiber-Zambrano-34bc40c66f0980088d32e55a9c3f504d
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Deiber-Zambrano-34bc40c66f0980088d32e55a9c3f504d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Deiber-Z
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Deiber-Zambrano-34bc40c66f0980088d32e55a9c3f504d
+- Pagina Notion: https://www.notion.so/Deiber-Zambrano-34bc40c66f0980088d32e55a9c3f504d
 
 ## Llamadas registradas
 

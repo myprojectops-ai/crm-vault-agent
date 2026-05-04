@@ -1,6 +1,6 @@
 # Diego Rojas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Rojas-33fc40c66f09814e86fcdd8b448e4bc5
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Rojas-33fc40c66f09814e86fcdd8b448e4bc5
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Ro
 
 - Grabacion: https://fathom.video/calls/631717881
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Diego-Rojas-33fc40c66f09814e86fcdd8b448e4bc5
+- Pagina Notion: https://www.notion.so/Diego-Rojas-33fc40c66f09814e86fcdd8b448e4bc5
 
 ## Llamadas registradas
 

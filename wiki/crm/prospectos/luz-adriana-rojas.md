@@ -1,6 +1,6 @@
 # Luz Adriana Rojas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luz-Adriana-Rojas-32dc40c66f0980dca828f61b38cb7697
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Luz-Adriana-Rojas-32dc40c66f0980dca828f61b38cb7697
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Luz-Adri
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Luz-Adriana-Rojas-32dc40c66f0980dca828f61b38cb7697
+- Pagina Notion: https://www.notion.so/Luz-Adriana-Rojas-32dc40c66f0980dca828f61b38cb7697
 
 ## Llamadas registradas
 

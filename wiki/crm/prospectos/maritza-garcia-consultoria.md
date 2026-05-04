@@ -1,6 +1,6 @@
 # Maritza Garcia Consultoría
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maritza-Garcia-Consultor-a-346c40c66f09814ebf1cf73ef898b710
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Maritza-Garcia-Consultor-a-346c40c66f09814ebf1cf73ef898b710
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Maritza-
 
 - Grabacion: https://fathom.video/calls/640102945
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Maritza-Garcia-Consultor-a-346c40c66f09814ebf1cf73ef898b710
+- Pagina Notion: https://www.notion.so/Maritza-Garcia-Consultor-a-346c40c66f09814ebf1cf73ef898b710
 
 ## Llamadas registradas
 

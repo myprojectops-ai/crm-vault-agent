@@ -1,6 +1,6 @@
 # Diego Hernando Angulo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-Hernando-Angulo-32cc40c66f0980e58f62fa32b5f3d026
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-Hernando-Angulo-32cc40c66f0980e58f62fa32b5f3d026
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-He
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Diego-Hernando-Angulo-32cc40c66f0980e58f62fa32b5f3d026
+- Pagina Notion: https://www.notion.so/Diego-Hernando-Angulo-32cc40c66f0980e58f62fa32b5f3d026
 
 ## Llamadas registradas
 

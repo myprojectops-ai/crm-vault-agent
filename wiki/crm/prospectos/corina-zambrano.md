@@ -1,6 +1,6 @@
 # Corina Zambrano
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Corina-Zambrano-337c40c66f0980b89ddbf0966dba1eb5
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Corina-Zambrano-337c40c66f0980b89ddbf0966dba1eb5
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Corina-Z
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Corina-Zambrano-337c40c66f0980b89ddbf0966dba1eb5
+- Pagina Notion: https://www.notion.so/Corina-Zambrano-337c40c66f0980b89ddbf0966dba1eb5
 
 ## Llamadas registradas
 

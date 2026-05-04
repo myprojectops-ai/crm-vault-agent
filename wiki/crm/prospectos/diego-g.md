@@ -1,6 +1,6 @@
 # Diego G
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-G-344c40c66f09808aa470d033d4896cc4
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diego-G-344c40c66f09808aa470d033d4896cc4
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diego-G-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Diego-G-344c40c66f09808aa470d033d4896cc4
+- Pagina Notion: https://www.notion.so/Diego-G-344c40c66f09808aa470d033d4896cc4
 
 ## Llamadas registradas
 

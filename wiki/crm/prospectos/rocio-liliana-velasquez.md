@@ -1,6 +1,6 @@
 # Rocio Liliana Velasquez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Rocio-Liliana-Velasquez-341c40c66f0980d1a732fbddd2a91037
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Rocio-Liliana-Velasquez-341c40c66f0980d1a732fbddd2a91037
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Rocio-Li
 
 - Grabacion: https://fathom.video/calls/640167921
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Rocio-Liliana-Velasquez-341c40c66f0980d1a732fbddd2a91037
+- Pagina Notion: https://www.notion.so/Rocio-Liliana-Velasquez-341c40c66f0980d1a732fbddd2a91037
 
 ## Llamadas registradas
 

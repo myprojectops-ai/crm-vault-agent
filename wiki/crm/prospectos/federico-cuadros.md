@@ -1,6 +1,6 @@
 # Federico Cuadros
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Federico-Cuadros-349c40c66f0980cd9af2f8615f093ed4
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Federico-Cuadros-349c40c66f0980cd9af2f8615f093ed4
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Federico
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Federico-Cuadros-349c40c66f0980cd9af2f8615f093ed4
+- Pagina Notion: https://www.notion.so/Federico-Cuadros-349c40c66f0980cd9af2f8615f093ed4
 
 ## Llamadas registradas
 

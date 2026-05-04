@@ -1,6 +1,6 @@
 # Jhonny Alexander Cabrera
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jhonny-Alexander-Cabrera-333c40c66f09800489f2d9a5f36a3fc2
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Jhonny-Alexander-Cabrera-333c40c66f09800489f2d9a5f36a3fc2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Jhonny-A
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Jhonny-Alexander-Cabrera-333c40c66f09800489f2d9a5f36a3fc2
+- Pagina Notion: https://www.notion.so/Jhonny-Alexander-Cabrera-333c40c66f09800489f2d9a5f36a3fc2
 
 ## Llamadas registradas
 

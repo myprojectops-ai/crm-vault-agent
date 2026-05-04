@@ -1,6 +1,6 @@
 # Hernan Jose Restrepo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Hernan-Jose-Restrepo-337c40c66f098067aba2de3b5755af63
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Hernan-Jose-Restrepo-337c40c66f098067aba2de3b5755af63
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Hernan-J
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Hernan-Jose-Restrepo-337c40c66f098067aba2de3b5755af63
+- Pagina Notion: https://www.notion.so/Hernan-Jose-Restrepo-337c40c66f098067aba2de3b5755af63
 
 ## Llamadas registradas
 

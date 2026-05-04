@@ -1,6 +1,6 @@
 # Andrés ramirez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andr-s-ramirez-32fc40c66f098072bd2cc581b924deec
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andr-s-ramirez-32fc40c66f098072bd2cc581b924deec
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andr-s-r
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andr-s-ramirez-32fc40c66f098072bd2cc581b924deec
+- Pagina Notion: https://www.notion.so/Andr-s-ramirez-32fc40c66f098072bd2cc581b924deec
 
 ## Llamadas registradas
 

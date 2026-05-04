@@ -1,6 +1,6 @@
 # Marcela Betancourt
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Marcela-Betancourt-337c40c66f09807b80d2c94a21023591
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Marcela-Betancourt-337c40c66f09807b80d2c94a21023591
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Marcela-
 
 - Grabacion: https://fathom.video/calls/637606760
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Marcela-Betancourt-337c40c66f09807b80d2c94a21023591
+- Pagina Notion: https://www.notion.so/Marcela-Betancourt-337c40c66f09807b80d2c94a21023591
 
 ## Llamadas registradas
 

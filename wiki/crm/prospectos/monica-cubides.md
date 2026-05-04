@@ -1,6 +1,6 @@
 # Monica Cubides
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Monica-Cubides-4e38248f6c6b4bbcac5615d3570e30d1
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Monica-Cubides-4e38248f6c6b4bbcac5615d3570e30d1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Monica-C
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Monica-Cubides-4e38248f6c6b4bbcac5615d3570e30d1
+- Pagina Notion: https://www.notion.so/Monica-Cubides-4e38248f6c6b4bbcac5615d3570e30d1
 
 ## Llamadas registradas
 

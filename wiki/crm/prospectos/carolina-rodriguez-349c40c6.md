@@ -1,6 +1,6 @@
 # Carolina Rodriguez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carolina-Rodriguez-349c40c66f0980a4986ff7ef12ef1f73
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carolina-Rodriguez-349c40c66f0980a4986ff7ef12ef1f73
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carolina
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Carolina-Rodriguez-349c40c66f0980a4986ff7ef12ef1f73
+- Pagina Notion: https://www.notion.so/Carolina-Rodriguez-349c40c66f0980a4986ff7ef12ef1f73
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Juan Carlos Figueroa
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Carlos-Figueroa-0adb7af431e3486ea2fa21e1378dc929
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Carlos-Figueroa-0adb7af431e3486ea2fa21e1378dc929
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Car
 
 - Grabacion: https://fathom.video/share/UwpdZF4P4YpP1xKsm4jJ86GVcyf3gaLk
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Juan-Carlos-Figueroa-0adb7af431e3486ea2fa21e1378dc929
+- Pagina Notion: https://www.notion.so/Juan-Carlos-Figueroa-0adb7af431e3486ea2fa21e1378dc929
 
 ## Llamadas registradas
 

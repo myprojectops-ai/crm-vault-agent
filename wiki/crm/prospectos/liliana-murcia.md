@@ -1,6 +1,6 @@
 # Liliana Murcia
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Liliana-Murcia-32fc40c66f0980a69cddc4fd3798ad76
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Liliana-Murcia-32fc40c66f0980a69cddc4fd3798ad76
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Liliana-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Liliana-Murcia-32fc40c66f0980a69cddc4fd3798ad76
+- Pagina Notion: https://www.notion.so/Liliana-Murcia-32fc40c66f0980a69cddc4fd3798ad76
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Rafael Ochoa Ortiz
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Rafael-Ochoa-Ortiz-34bc40c66f098058b08ee90166ceacdb
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Rafael-Ochoa-Ortiz-34bc40c66f098058b08ee90166ceacdb
 
 ## Key Takeaways
 
@@ -76,7 +76,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Rafael-O
 
 - Grabacion: https://fathom.video/calls/652812187
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Rafael-Ochoa-Ortiz-34bc40c66f098058b08ee90166ceacdb
+- Pagina Notion: https://www.notion.so/Rafael-Ochoa-Ortiz-34bc40c66f098058b08ee90166ceacdb
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Astrid Gonzalez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Astrid-Gonzalez-32ac40c66f098029bb7be44f075eed5c
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Astrid-Gonzalez-32ac40c66f098029bb7be44f075eed5c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Astrid-G
 
 - Grabacion: https://fathom.video/share/zx3XkRjjTENqp_zo6tGLCaxBgQfCfzZG
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Astrid-Gonzalez-32ac40c66f098029bb7be44f075eed5c
+- Pagina Notion: https://www.notion.so/Astrid-Gonzalez-32ac40c66f098029bb7be44f075eed5c
 
 ## Llamadas registradas
 

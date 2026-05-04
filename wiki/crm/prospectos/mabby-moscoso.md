@@ -1,6 +1,6 @@
 # Mabby Moscoso
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mabby-Moscoso-facb1eb2eb3f43769126b331a9fa93f7
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mabby-Moscoso-facb1eb2eb3f43769126b331a9fa93f7
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mabby-Mo
 
 - Grabacion: https://fathom.video/share/49yW_1x3mzRC1ciu3C2viznKoPw2Dhov
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Mabby-Moscoso-facb1eb2eb3f43769126b331a9fa93f7
+- Pagina Notion: https://www.notion.so/Mabby-Moscoso-facb1eb2eb3f43769126b331a9fa93f7
 
 ## Llamadas registradas
 

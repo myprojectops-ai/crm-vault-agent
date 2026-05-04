@@ -1,6 +1,6 @@
 # Gustavo Ernesto
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Gustavo-Ernesto-341c40c66f0980028ffee34dcf25dd99
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Gustavo-Ernesto-341c40c66f0980028ffee34dcf25dd99
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Gustavo-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Gustavo-Ernesto-341c40c66f0980028ffee34dcf25dd99
+- Pagina Notion: https://www.notion.so/Gustavo-Ernesto-341c40c66f0980028ffee34dcf25dd99
 
 ## Llamadas registradas
 

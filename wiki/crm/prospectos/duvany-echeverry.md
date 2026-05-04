@@ -1,6 +1,6 @@
 # Duvany Echeverry
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Duvany-Echeverry-32dc40c66f09808785daee5b0ac91d35
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Duvany-Echeverry-32dc40c66f09808785daee5b0ac91d35
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Duvany-E
 
 - Grabacion: https://fathom.video/share/21yGy9w5y9uFZuGioxcA_qqWv5VjyinC
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Duvany-Echeverry-32dc40c66f09808785daee5b0ac91d35
+- Pagina Notion: https://www.notion.so/Duvany-Echeverry-32dc40c66f09808785daee5b0ac91d35
 
 ## Llamadas registradas
 

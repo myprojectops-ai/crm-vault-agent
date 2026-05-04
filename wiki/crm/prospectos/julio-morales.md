@@ -1,6 +1,6 @@
 # Julio Morales
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Julio-Morales-1645d933d41249beae972a1606a0b2e2
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Julio-Morales-1645d933d41249beae972a1606a0b2e2
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Julio-Mo
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Julio-Morales-1645d933d41249beae972a1606a0b2e2
+- Pagina Notion: https://www.notion.so/Julio-Morales-1645d933d41249beae972a1606a0b2e2
 
 ## Llamadas registradas
 

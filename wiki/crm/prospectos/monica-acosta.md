@@ -1,6 +1,6 @@
 # Monica Acosta
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Monica-Acosta-335c40c66f0980919c26fcf9c80501f7
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Monica-Acosta-335c40c66f0980919c26fcf9c80501f7
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Monica-A
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Monica-Acosta-335c40c66f0980919c26fcf9c80501f7
+- Pagina Notion: https://www.notion.so/Monica-Acosta-335c40c66f0980919c26fcf9c80501f7
 
 ## Llamadas registradas
 

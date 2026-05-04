@@ -1,6 +1,6 @@
 # Mauricio Ledesma
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mauricio-Ledesma-34fc40c66f09806496f0edfa450d2205
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Mauricio-Ledesma-34fc40c66f09806496f0edfa450d2205
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Mauricio
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Mauricio-Ledesma-34fc40c66f09806496f0edfa450d2205
+- Pagina Notion: https://www.notion.so/Mauricio-Ledesma-34fc40c66f09806496f0edfa450d2205
 
 ## Llamadas registradas
 

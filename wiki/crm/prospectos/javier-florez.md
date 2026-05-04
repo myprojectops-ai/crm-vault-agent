@@ -1,6 +1,6 @@
 # Javier Florez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Javier-Florez-33ac40c66f0980d3b97fe7b5cc72c259
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Javier-Florez-33ac40c66f0980d3b97fe7b5cc72c259
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Javier-F
 
 - Grabacion: https://fathom.video/calls/641873389
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Javier-Florez-33ac40c66f0980d3b97fe7b5cc72c259
+- Pagina Notion: https://www.notion.so/Javier-Florez-33ac40c66f0980d3b97fe7b5cc72c259
 
 ## Llamadas registradas
 

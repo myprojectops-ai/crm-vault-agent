@@ -1,6 +1,6 @@
 # Sandra Liliana Baquero
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sandra-Liliana-Baquero-328c40c66f0980d2a83dd568b3cf2173
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Sandra-Liliana-Baquero-328c40c66f0980d2a83dd568b3cf2173
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Sandra-L
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Sandra-Liliana-Baquero-328c40c66f0980d2a83dd568b3cf2173
+- Pagina Notion: https://www.notion.so/Sandra-Liliana-Baquero-328c40c66f0980d2a83dd568b3cf2173
 
 ## Llamadas registradas
 

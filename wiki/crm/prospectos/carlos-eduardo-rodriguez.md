@@ -1,6 +1,6 @@
 # Carlos Eduardo Rodriguez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-Eduardo-Rodriguez-34fc40c66f09807ea172fda73586f6ec
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Carlos-Eduardo-Rodriguez-34fc40c66f09807ea172fda73586f6ec
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Carlos-E
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Carlos-Eduardo-Rodriguez-34fc40c66f09807ea172fda73586f6ec
+- Pagina Notion: https://www.notion.so/Carlos-Eduardo-Rodriguez-34fc40c66f09807ea172fda73586f6ec
 
 ## Llamadas registradas
 

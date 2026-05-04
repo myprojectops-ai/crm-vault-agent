@@ -1,6 +1,6 @@
 # Julian David Perez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Julian-David-Perez-349c40c66f0980e98b3cf400064aba4f
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Julian-David-Perez-349c40c66f0980e98b3cf400064aba4f
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Julian-D
 
 - Grabacion: https://fathom.video/calls/648113757
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Julian-David-Perez-349c40c66f0980e98b3cf400064aba4f
+- Pagina Notion: https://www.notion.so/Julian-David-Perez-349c40c66f0980e98b3cf400064aba4f
 
 ## Llamadas registradas
 

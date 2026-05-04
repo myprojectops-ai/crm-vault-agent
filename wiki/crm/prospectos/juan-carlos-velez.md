@@ -1,6 +1,6 @@
 # Juan Carlos Velez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Carlos-Velez-32cc40c66f09800fa65edc9ee17cc4c1
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Juan-Carlos-Velez-32cc40c66f09800fa65edc9ee17cc4c1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Juan-Car
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Juan-Carlos-Velez-32cc40c66f09800fa65edc9ee17cc4c1
+- Pagina Notion: https://www.notion.so/Juan-Carlos-Velez-32cc40c66f09800fa65edc9ee17cc4c1
 
 ## Llamadas registradas
 

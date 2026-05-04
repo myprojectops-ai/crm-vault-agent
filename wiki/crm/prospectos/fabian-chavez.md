@@ -1,6 +1,6 @@
 # Fabian Chavez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Fabian-Chavez-344c40c66f098019a753e83b6bfa21f9
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Fabian-Chavez-344c40c66f098019a753e83b6bfa21f9
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Fabian-C
 
 - Grabacion: https://fathom.video/calls/641386125
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Fabian-Chavez-344c40c66f098019a753e83b6bfa21f9
+- Pagina Notion: https://www.notion.so/Fabian-Chavez-344c40c66f098019a753e83b6bfa21f9
 
 ## Llamadas registradas
 

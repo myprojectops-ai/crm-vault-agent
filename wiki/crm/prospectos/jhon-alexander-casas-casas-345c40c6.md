@@ -1,6 +1,6 @@
 # JHON ALEXANDER CASAS CASAS
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/JHON-ALEXANDER-CASAS-CASAS-345c40c66f0981db88c5caf1379d4b90
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/JHON-ALEXANDER-CASAS-CASAS-345c40c66f0981db88c5caf1379d4b90
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/JHON-ALE
 
 - Grabacion: https://fathom.video/calls/638669071
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/JHON-ALEXANDER-CASAS-CASAS-345c40c66f0981db88c5caf1379d4b90
+- Pagina Notion: https://www.notion.so/JHON-ALEXANDER-CASAS-CASAS-345c40c66f0981db88c5caf1379d4b90
 
 ## Llamadas registradas
 

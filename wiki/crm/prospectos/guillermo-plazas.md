@@ -1,6 +1,6 @@
 # Guillermo Plazas
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Guillermo-Plazas-349c40c66f098071ab1df34f99546491
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Guillermo-Plazas-349c40c66f098071ab1df34f99546491
 
 ## Key Takeaways
 
@@ -74,7 +74,7 @@ No hay resumen de Fathom disponible.
 
 - Grabacion: https://fathom.video/share/zvtyqQxZu_Qdvkscxy6vgiUrgijysiSa
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Guillermo-Plazas-349c40c66f098071ab1df34f99546491
+- Pagina Notion: https://www.notion.so/Guillermo-Plazas-349c40c66f098071ab1df34f99546491
 
 ## Llamadas registradas
 

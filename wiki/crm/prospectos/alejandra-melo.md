@@ -1,6 +1,6 @@
 # Alejandra Melo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alejandra-Melo-32dc40c66f098030912fe3e047e9419e
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alejandra-Melo-32dc40c66f098030912fe3e047e9419e
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alejandr
 
 - Grabacion: https://fathom.video/share/aJdo-xEh4XzsiQsiNhD-Bnsn6_9eVwEp
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Alejandra-Melo-32dc40c66f098030912fe3e047e9419e
+- Pagina Notion: https://www.notion.so/Alejandra-Melo-32dc40c66f098030912fe3e047e9419e
 
 ## Llamadas registradas
 

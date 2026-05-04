@@ -1,6 +1,6 @@
 # Elkin Fajardo
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Elkin-Fajardo-a76ca9be184b4fa1b1332106f020047d
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Elkin-Fajardo-a76ca9be184b4fa1b1332106f020047d
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Elkin-Fa
 
 - Grabacion: https://fathom.video/calls/596691252
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Elkin-Fajardo-a76ca9be184b4fa1b1332106f020047d
+- Pagina Notion: https://www.notion.so/Elkin-Fajardo-a76ca9be184b4fa1b1332106f020047d
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Andrés Cañon
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Andr-s-Ca-on-5f61d3b41f48476e8acf48e3177b81c1
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Andr-s-Ca-on-5f61d3b41f48476e8acf48e3177b81c1
 
 ## Key Takeaways
 
@@ -54,7 +54,7 @@ Si quieres, podemos agendar una segunda reunión y lo vemos juntos con calma par
 
 - Grabacion: https://fathom.video/share/YfDAUNiLdURbbQVixsnbuKr8z7EyLAus
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Andr-s-Ca-on-5f61d3b41f48476e8acf48e3177b81c1
+- Pagina Notion: https://www.notion.so/Andr-s-Ca-on-5f61d3b41f48476e8acf48e3177b81c1
 
 ## Llamadas registradas
 

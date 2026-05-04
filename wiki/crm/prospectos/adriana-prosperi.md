@@ -1,6 +1,6 @@
 # Adriana Prosperi
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Adriana-Prosperi-33ac40c66f09806ea48dcbda27eff731
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Adriana-Prosperi-33ac40c66f09806ea48dcbda27eff731
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Adriana-
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Adriana-Prosperi-33ac40c66f09806ea48dcbda27eff731
+- Pagina Notion: https://www.notion.so/Adriana-Prosperi-33ac40c66f09806ea48dcbda27eff731
 
 ## Llamadas registradas
 

@@ -1,6 +1,6 @@
 # Magda Patto
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Magda-Patto-342c40c66f0981cfabf6f08fc0dd274e
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Magda-Patto-342c40c66f0981cfabf6f08fc0dd274e
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Magda-Pa
 
 - Grabacion: https://fathom.video/calls/633368331
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Magda-Patto-342c40c66f0981cfabf6f08fc0dd274e
+- Pagina Notion: https://www.notion.so/Magda-Patto-342c40c66f0981cfabf6f08fc0dd274e
 
 ## Llamadas registradas
 

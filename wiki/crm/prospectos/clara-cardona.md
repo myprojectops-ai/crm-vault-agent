@@ -1,6 +1,6 @@
 # Clara Cardona
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Clara-Cardona-34fc40c66f09803ba640f60e3d581820
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Clara-Cardona-34fc40c66f09803ba640f60e3d581820
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Clara-Ca
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Clara-Cardona-34fc40c66f09803ba640f60e3d581820
+- Pagina Notion: https://www.notion.so/Clara-Cardona-34fc40c66f09803ba640f60e3d581820
 
 ## Llamadas registradas
 

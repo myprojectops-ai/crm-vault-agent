@@ -1,6 +1,6 @@
 # Magda Patricia Turmequé
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Magda-Patricia-Turmequ-335c40c66f09807aa3ecc34b690bd34c
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Magda-Patricia-Turmequ-335c40c66f09807aa3ecc34b690bd34c
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Magda-Pa
 
 - Grabacion: -
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Magda-Patricia-Turmequ-335c40c66f09807aa3ecc34b690bd34c
+- Pagina Notion: https://www.notion.so/Magda-Patricia-Turmequ-335c40c66f09807aa3ecc34b690bd34c
 
 ## Llamadas registradas
 

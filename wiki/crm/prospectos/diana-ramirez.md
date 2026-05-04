@@ -1,6 +1,6 @@
 # Diana Ramirez
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diana-Ramirez-343c40c66f098111aa92d43b9d6ee0b4
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Diana-Ramirez-343c40c66f098111aa92d43b9d6ee0b4
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Diana-Ra
 
 - Grabacion: https://fathom.video/calls/635640825
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Diana-Ramirez-343c40c66f098111aa92d43b9d6ee0b4
+- Pagina Notion: https://www.notion.so/Diana-Ramirez-343c40c66f098111aa92d43b9d6ee0b4
 
 ## Llamadas registradas
 

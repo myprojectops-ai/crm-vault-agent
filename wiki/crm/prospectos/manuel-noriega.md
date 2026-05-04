@@ -1,6 +1,6 @@
 # Manuel Noriega
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Manuel-Noriega-bc80210e3ced4de6ac006237436808e3
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Manuel-Noriega-bc80210e3ced4de6ac006237436808e3
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Manuel-N
 
 - Grabacion: https://fathom.video/calls/594346239
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Manuel-Noriega-bc80210e3ced4de6ac006237436808e3
+- Pagina Notion: https://www.notion.so/Manuel-Noriega-bc80210e3ced4de6ac006237436808e3
 
 ## Llamadas registradas
 

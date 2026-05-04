@@ -1,6 +1,6 @@
 # Alejandra Torres
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alejandra-Torres-32fc40c66f098035a411c9b7d5fae848
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Alejandra-Torres-32fc40c66f098035a411c9b7d5fae848
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Alejandr
 
 - Grabacion: https://fathom.video/share/xaQgmB26Jxjtu8yTDBFKgaim-s51Gtz4
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Alejandra-Torres-32fc40c66f098035a411c9b7d5fae848
+- Pagina Notion: https://www.notion.so/Alejandra-Torres-32fc40c66f098035a411c9b7d5fae848
 
 ## Llamadas registradas
 

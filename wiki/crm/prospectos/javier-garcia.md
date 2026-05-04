@@ -1,6 +1,6 @@
 # Javier Garcia
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Javier-Garcia-327c40c66f0980319c24e19cbe202aba
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/Javier-Garcia-327c40c66f0980319c24e19cbe202aba
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/Javier-G
 
 - Grabacion: https://fathom.video/share/xHVDJTMbWZENjWXfyAZXyfevxyonCR-3
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/Javier-Garcia-327c40c66f0980319c24e19cbe202aba
+- Pagina Notion: https://www.notion.so/Javier-Garcia-327c40c66f0980319c24e19cbe202aba
 
 ## Llamadas registradas
 

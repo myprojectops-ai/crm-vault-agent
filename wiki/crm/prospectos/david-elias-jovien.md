@@ -1,6 +1,6 @@
 # David Elias Jovien
 
-Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/David-Elias-Jovien-350c40c66f09811eb86bea72214f67c1
+Registro en [[crm-acelera]]. Pagina en Notion: https://www.notion.so/David-Elias-Jovien-350c40c66f09811eb86bea72214f67c1
 
 ## Key Takeaways
 
@@ -52,7 +52,7 @@ Registro en [[crm-acelera]]. Pagina en Notion: https://app.notion.com/p/David-El
 
 - Grabacion: https://fathom.video/calls/651464901
 - Carpeta Drive: -
-- Pagina Notion: https://app.notion.com/p/David-Elias-Jovien-350c40c66f09811eb86bea72214f67c1
+- Pagina Notion: https://www.notion.so/David-Elias-Jovien-350c40c66f09811eb86bea72214f67c1
 
 ## Llamadas registradas
 
